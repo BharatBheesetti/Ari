@@ -1,0 +1,6 @@
+pandas
+numpy
+asyncio
+requests
+uv
+vllm
