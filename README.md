@@ -1,70 +1,58 @@
-# Job Board Scraper
+# Ari - Personal Talent Agent
 
-A simple tool to scrape job boards for relevant Product Manager positions in Bangalore/India/Remote.
+Find relevant jobs from company career pages before they hit mainstream platforms.
 
-## Setup and Usage
+## Overview
 
-### One-Step Run
+Ari automatically discovers career pages from tech companies and monitors them for job listings that match your criteria. It's designed to give you an early advantage in your job search.
 
-Just run the script:
+## Features
+
+- Discovers career pages from company websites
+- Extracts and filters job listings based on your criteria 
+- Runs automatically via GitHub Actions
+- Tracks ~3000 tech companies (expandable)
+
+## Setup
 
 ```bash
-python job_scraper.py
+git clone https://github.com/bharatbheesetti/ari.git
+cd ari
+pip install -r requirements.txt
+playwright install
 ```
 
-This will:
-1. Set up the environment if needed
-2. Install and start the local model server
-3. Process all job boards in companies.csv
-4. Export matching jobs to a JSON file
+## Usage
 
-### Options
+### Find Career Pages
 
 ```bash
-python job_scraper.py --setup    # Only run setup, don't scrape
-python job_scraper.py --csv path_to_csv.csv  # Specify custom CSV file
-python job_scraper.py --format csv  # Export as CSV instead of JSON
-python job_scraper.py --headless  # Run browser in headless mode
+python career_page_url_finder.py companies_final.csv companies_with_careers.csv
+```
+
+### Extract Jobs
+
+```bash
+python job_scraper.py --csv companies_with_careers.csv [--format json|csv] [--headless]
 ```
 
 ## How It Works
 
-The script:
-1. Reads company names and job board URLs from companies.csv
-2. Processes each job board using Proxy Lite's autonomous browsing capability
-3. Searches for Product Manager roles with senior/lead levels in Bangalore/India/Remote
-4. Extracts job details (title, company, description, location, etc.)
-5. Filters results based on criteria
-6. Exports to JSON or CSV
+1. **Career Page Discovery**: Uses multiple strategies to locate company career pages
+2. **Job Extraction**: Scrapes and filters job listings matching your criteria
+3. **Automated Monitoring**: GitHub Actions workflow runs daily
 
-## Requirements
+## Structure
 
-- Python 3.11
-- Windows
-- Approximately 8GB RAM for the local model
-
-## Output Format
-
-The output is saved as `job_results_[timestamp].json` with this structure:
-
-```json
-{
-  "jobs": [
-    {
-      "title": "Senior Product Manager",
-      "company": "Example Company",
-      "description": "Job description text...",
-      "location": "Bangalore, India",
-      "url": "https://example.com/job",
-      "posted_date": "Feb 2025",
-      "source_url": "https://jobs.example.com",
-      "extracted_at": "2025-02-28T12:34:56"
-    },
-    ...
-  ],
-  "metadata": {
-    "generated_at": "2025-02-28T12:34:56",
-    "total_jobs_found": 12
-  }
-}
 ```
+ari/
+├── career_page_url_finder.py   # Finds career pages
+├── job_scraper.py              # Extracts job listings
+├── companies_final.csv         # Input companies list
+├── companies_with_careers.csv  # Companies with career URLs
+└── .github/workflows/          # Automation workflows
+```
+
+## Current Status
+
+The tool can successfully find career pages for companies and extract job listings. It's being refreshed with improved functionality for more accurate job matching.
