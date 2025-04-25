@@ -1,0 +1,2869 @@
+serial_number,company_name,url
+1,Cohesity,https://www.cohesity.com/
+2,Qumulo,https://qumulo.com/
+3,NetApp,https://www.netapp.com/
+4,HPE Nimble Storage,https://www.hpe.com/
+5,MinIO,https://min.io/
+6,Azure Storage,https://azure.microsoft.com/en-us/products/category/storage/
+7,Clumio,https://clumio.com/
+8,Egnyte,https://www.egnyte.com/
+9,Google Cloud Storage,https://cloud.google.com/storage
+10,Wasabi,https://wasabi.com/
+11,IBM Storage,https://www.ibm.com/storage
+12,Backblaze,https://www.backblaze.com/
+13,Alluxio,https://www.alluxio.io/
+14,Cloudflare,https://www.cloudflare.com/products/r2/
+15,Weka,https://www.weka.io/
+16,Vast Data,https://vastdata.com/
+17,Digital Ocean Spaces,https://www.digitalocean.com/products/spaces
+18,Pure Storage,https://www.purestorage.com/
+19,Amazon S3,https://aws.amazon.com/s3/
+20,Panasas,https://www.panasas.com/
+21,Actian,https://www.actian.com/
+22,Exasol,https://www.exasol.com/
+23,Teradata,https://www.teradata.com/
+24,Greenplum Database,https://greenplum.org/
+25,IBM Data Warehouse Solutions,https://www.ibm.com/data-warehouse
+26,"Vertica, An OpenText Company",https://www.vertica.com/overview/
+27,ChaosSearch,https://www.chaossearch.io/
+28,OneHouse,https://www.onehouse.ai/
+29,HPE Ezmeral Data Fabric,https://www.hpe.com/us/en/hpe-ezmeral-data-fabric.html
+30,Cloudera,https://www.cloudera.com/
+31,Qubole,https://www.qubole.com/
+32,Google Cloud Dataproc,https://cloud.google.com/dataproc
+33,Starburst,https://www.starburst.io/
+34,Dremio,https://www.dremio.com/
+35,Databricks,https://www.databricks.com/
+36,Cloudian,https://cloudian.com/
+37,IBM Data Lake Solutions,https://www.ibm.com/data-lake
+38,Google Cloud BigLake,https://cloud.google.com/biglake?hl=en
+39,Azure Data Lake Storage,https://azure.microsoft.com/en-us/products/storage/data-lake-storage
+40,Snowflake,https://www.snowflake.com/en/
+41,Azure HD Insight,https://azure.microsoft.com/en-us/products/hdinsight/
+42,AWS Amazon EMR,https://aws.amazon.com/emr/
+43,AWS Lake Formation,https://aws.amazon.com/lake-formation/
+44,Iomete,https://iomete.com/
+45,Yellowbrick,https://yellowbrick.com/
+46,AWS Amazon RedShift,https://aws.amazon.com/redshift/
+47,Firebolt,https://www.firebolt.io/home-v2
+48,Ocient,https://ocient.com/
+49,Oracle Exadata Cloud Service,https://docs.oracle.com/en-us/iaas/exadatacloud/exacs/exadata-cloud-service-overview.html
+50,SelectDB,https://en.selectdb.com/
+51,Kyligence,https://kyligence.io/
+52,Hydra,https://hydra.so/
+53,Tabular,https://tabular.io/
+54,IBM Db2 Warehouse,https://www.ibm.com/products/db2/warehouse
+55,Panoply by SQream,https://panoply.io/
+56,VMWare Greenplum,https://www.vmware.com/products/greenplum.html
+57,StarRocks,https://www.starrocks.io/
+58,Google Cloud BigQuery,https://cloud.google.com/bigquery
+59,Azure Synapse Analytics,https://azure.microsoft.com/en-us/products/synapse-analytics/#overview
+60,MotherDuck,https://motherduck.com/
+61,SAP HANA Cloud,https://www.sap.com/products/technology-platform/hana.html
+62,Gigaspaces,https://www.gigaspaces.com/
+63,GridGain,https://www.gridgain.com/
+64,InfinyOn,https://infinyon.com/
+65,Hazelcast,https://hazelcast.com/
+66,Bytewax,https://www.bytewax.io/
+67,Upsolver,https://www.upsolver.com/
+68,Google Cloud Dataflow,https://cloud.google.com/dataflow
+69,StreamNative,https://streamnative.io/
+70,Ably,https://ably.com/
+71,DeltaStream,https://deltastream.io/
+72,Estuary,https://www.estuary.dev/
+73,Quix,https://www.quix.io/
+74,Voltron Data,https://voltrondata.com/subscription
+75,Oracle Coherence,https://www.oracle.com/java/coherence/
+76,Tinybird,https://www.tinybird.co/
+77,RedPanda,https://redpanda.com/
+78,Confluent,https://www.confluent.io/
+79,RisingWave Labs,https://www.risingwave-labs.com/
+80,Decodable,https://www.decodable.co/
+81,Meroxa,https://meroxa.com/
+82,Ververica,https://www.ververica.com/
+83,Artie,https://www.artie.so/
+84,Arcion,https://www.arcion.io/
+85,Striim,https://www.striim.com/
+86,AWS Amazon Kinesis,https://aws.amazon.com/kinesis/
+87,Conduktor,https://www.conduktor.io/
+88,Aiven,https://aiven.io/
+89,Oracle,https://www.oracle.com/
+90,Altibase,https://altibase.com/en/
+91,Microsoft SQL Server,https://www.microsoft.com/en-us/sql-server
+92,AWS Amazon RDS,https://aws.amazon.com/rds/
+93,SAP ASE,https://www.sap.com/products/technology-platform/sybase-ase.html
+94,IBM DB2,https://www.ibm.com/products/db2
+95,Microsoft Access,https://www.microsoft.com/en-us/microsoft-365/access
+96,Speedb,https://www.speedb.io/
+97,Couchbase,https://www.couchbase.com/
+98,Progress MarkLogic,https://www.progress.com/marklogic
+99,Azure CosmosDB,https://azure.microsoft.com/en-ca/products/cosmos-db/
+100,Aerospike,https://aerospike.com/
+101,Infinispan,https://infinispan.org/
+102,MongoDB,https://www.mongodb.com/
+103,Amazon DocumentDB,https://aws.amazon.com/documentdb/
+104,AWS Amazon DynamoDB,https://aws.amazon.com/dynamodb/
+105,Crunchydata,https://www.crunchydata.com/
+106,Oracle NoSQL,https://www.oracle.com/
+107,ScyllaDB,https://www.scylladb.com/
+108,Nile,https://www.thenile.dev/
+109,pgEdge,https://www.pgedge.com/
+110,RavenDB,https://ravendb.net/
+111,VMware Tanzu GemFire,https://tanzu.vmware.com/gemfire
+112,Crate.io,https://crate.io/
+113,Riak,https://riak.com/index.html
+114,Datastax,https://www.datastax.com/
+115,Google Cloud Bigtable,https://cloud.google.com/bigtable
+116,Supabase,https://supabase.com/
+117,Timescale,https://www.timescale.com/
+118,Google Cloud Spanner,https://cloud.google.com/spanner
+119,PlanetScale,https://planetscale.com/
+120,YugabyteDB,https://www.yugabyte.com/
+121,Volt Active Data,https://www.voltactivedata.com/
+122,InfluxData,https://www.influxdata.com/
+123,Neon,https://neon.tech/
+124,Google Cloud AlloyDB,https://cloud.google.com/alloydb
+125,CockroachDB,https://www.cockroachlabs.com/
+126,PingCAP,https://www.pingcap.com/
+127,Dassault Systemes NuoDB,https://www.3ds.com/nuodb-distributed-sql-database
+128,MariaDB Xpand,https://mariadb.com/products/enterprise/xpand/
+129,AWS Amazon Aurora,https://aws.amazon.com/rds/aurora/
+130,ReadySet,https://readyset.io/
+131,Materialize,https://materialize.com/
+132,Convex,https://www.convex.dev/
+133,RethinkDB,https://rethinkdb.com/
+134,FeatureBase,https://www.featurebase.com/
+135,Redis,https://redis.com/
+136,Altinity,https://altinity.com/
+137,Startree,https://startree.ai/
+138,DolphinDB,https://dolphindb.com/
+139,QuestDB,https://questdb.io/
+140,KX,https://kx.com/
+141,Macrometa,https://www.macrometa.com/
+142,Clickhouse,https://clickhouse.com/
+143,Rockset,https://rockset.com/
+144,Imply,https://imply.io/
+145,SingleStore,https://www.singlestore.com/
+146,TigerGraph,https://www.tigergraph.com/
+147,ArangoDB,https://www.arangodb.com/
+148,AWS Amazon Neptune,https://aws.amazon.com/neptune/
+149,Objectivity,https://objectivity.com/resources/objectivitydb-10-product-introduction-and-strengths/
+150,IBM Graph,https://www.ibm.com/analytics/ca/en/technology/cloud-data-services/graph/
+151,Dgraph,https://dgraph.io/
+152,neo4j,https://neo4j.com/
+153,Grafbase,https://grafbase.com/
+154,TerminusDB,https://terminusdb.com/
+155,Hasura,https://hasura.io/
+156,NebulaGraph,https://www.nebula-graph.io/
+157,Stardog,https://www.stardog.com/
+158,Apollo,https://www.apollographql.com/
+159,Memgraph,https://memgraph.com/
+160,Oracle Graph,https://www.oracle.com/
+161,Heavy.ai,https://www.heavy.ai/
+162,SQream,https://sqream.com/
+163,HeteroDB,https://www.heterodb.com/
+164,Brytlyt,https://brytlyt.io/
+165,IBM Spark GPU,https://github.com/IBMSparkGPU
+166,Kinetica,https://www.kinetica.com/
+167,Xata,https://xata.io/
+168,SurrealDB,https://surrealdb.com/
+169,EdgeDB,https://www.edgedb.com/
+170,TileDB,https://www.tiledb.com/
+171,Prisma,https://www.prisma.io/
+172,Fauna,https://fauna.com/home
+173,Pinecone,https://www.pinecone.io/
+174,Vald,https://vald.vdaas.org/
+175,Chroma,https://www.trychroma.com/
+176,Zilliz,https://zilliz.com/
+177,Qdrant,https://qdrant.tech/
+178,Marqo,https://www.marqo.ai/
+179,LanceDB,https://lancedb.com/
+180,Weaviate,https://weaviate.io/
+181,Vespa,https://vespa.ai/
+182,Hevo Data,https://hevodata.com/
+183,Dataddo,https://www.dataddo.com/
+184,Prophecy,https://www.prophecy.io/
+185,Portable,https://portable.io/
+186,Meltano,https://meltano.com/
+187,Coalesce,https://coalesce.io/
+188,Cdata,https://www.cdata.com/
+189,tamr,https://www.tamr.com/
+190,Datorios,https://datorios.com/
+191,Google Cloud Data Fusion,https://cloud.google.com/data-fusion
+192,Supermetrics,https://supermetrics.com/
+193,Integrate.io,https://www.integrate.io/
+194,Alteryx,https://www.alteryx.com/
+195,Talend,https://www.talend.com/
+196,Airbyte,https://airbyte.com/
+197,Osmos,https://www.osmos.io/
+198,Azure Data Factory,https://azure.microsoft.com/en-us/products/data-factory/
+199,dbt Labs,https://www.getdbt.com/
+200,Stitch,https://www.stitchdata.com/
+201,AWS Glue,https://aws.amazon.com/glue/
+202,Kleene,https://www.kleene.ai/
+203,Unstructured.io,https://unstructured.io/
+204,DataChannel,https://www.datachannel.co/
+205,Hitachi Vantara Pentaho,https://www.hitachivantara.com/en-us/products/dataops-software/data-integration-analytics.html
+206,Rivery,https://rivery.io/
+207,Fivetran,https://www.fivetran.com/
+208,Matillion,https://www.matillion.com/
+209,Hightouch,https://hightouch.com/
+210,Rudderstack,https://www.rudderstack.com/
+211,Census,https://www.getcensus.com/
+212,MessageGears,https://messagegears.com/
+213,Polytomic,https://www.polytomic.com/
+214,Octolis,https://octolis.com/
+215,SnapLogic,https://www.snaplogic.com/
+216,Jitterbit,https://www.jitterbit.com/
+217,Cinchy,https://cinchy.com/
+218,Make,https://www.make.com/en
+219,Parabola,https://parabola.io/
+220,StreamSets,https://streamsets.com/
+221,Whalesync,https://www.whalesync.com/
+222,Tealium,https://tealium.com/
+223,Boomi,https://boomi.com/
+224,Flatfile,https://flatfile.com/
+225,Snowplow,https://snowplow.io/
+226,Bobsled,https://bobsled.it/
+227,import.io,https://www.import.io/
+228,tray.io,https://tray.io/
+229,Crux Data,https://www.cruxdata.com/
+230,Twilio Segment,https://segment.com/twilio/
+231,Qlik,https://www.qlik.com/us/
+232,SAP Data Services,https://www.sap.com/products/technology-platform/data-services.html
+233,Informatica,https://www.informatica.com/
+234,InfoWorks,https://www.infoworks.io/
+235,Denodo,https://www.denodo.com/en
+236,Immersa,https://www.immersa.ai/
+237,YepCode,https://yepcode.io/
+238,MuleSoft,https://www.mulesoft.com/
+239,Sequin,https://sequin.io/
+240,Celigo,https://www.celigo.com/
+241,n8n,https://n8n.io/
+242,Freshpaint,https://www.freshpaint.io/
+243,NextData,https://www.nextdata.com/
+244,Modern Data Company,https://themoderndatacompany.com/
+245,SailPoint,https://www.sailpoint.com/
+246,ALTR,https://www.altr.com/
+247,OvalEdge,https://www.ovaledge.com/
+248,ObservePoint,https://www.observepoint.com/
+249,Raito,https://www.raito.io/
+250,Immuta,https://www.immuta.com/
+251,Stemma,https://www.stemma.ai/
+252,Orion,https://www.oriongovernance.com/
+253,Securiti,https://securiti.ai/
+254,Alation,https://www.alation.com/
+255,Alvin,https://www.alvin.ai/
+256,Collibra,https://www.collibra.com/us/en
+257,Select Star,https://www.selectstar.com/
+258,Octopai,https://www.octopai.com/
+259,Acryl Data,https://www.acryldata.io/
+260,Precisely,https://www.precisely.com/
+261,Hitachi Vantara,https://www.hitachivantara.com/en-us
+262,Data.world,https://data.world/
+263,Stratio,https://www.stratio.com/home
+264,Okera,https://www.okera.com/
+265,Ataccama,https://www.ataccama.com/
+266,Metaphor,https://metaphor.io/
+267,IBM,https://www.ibm.com/us-en/
+268,Atlan,https://atlan.com/
+269,Secoda,https://www.secoda.co/
+270,BigID,https://bigid.com/
+271,Castor,https://www.castordoc.com/
+272,Solidatus,https://www.solidatus.com/
+273,Skyhigh Security,https://www.skyhighsecurity.com/en-us/
+274,Demyst,https://demyst.com/
+275,Elementl,https://www.elementl.com/
+276,AWS Step Functions,https://aws.amazon.com/step-functions/
+277,Microsoft Azure Data Factory,https://azure.microsoft.com/en-us/products/data-factory/
+278,Google Cloud Workflows,https://cloud.google.com/workflows
+279,Prefect,https://www.prefect.io/
+280,Mage,https://www.mage.ai/
+281,Seqera,https://seqera.io/
+282,Akuity,https://akuity.io/
+283,Trocco,https://pages.trocco.io/en/lp/index.html
+284,Union.ai,https://www.union.ai/
+285,Astronomer,https://www.astronomer.io/
+286,Neurelo,https://www.neurelo.com/
+287,Outerbounds,https://outerbounds.com/
+288,Validio,https://validio.io/
+289,Manta,https://getmanta.com/
+290,Acceldata,https://www.acceldata.io/
+291,Great Expectations,https://greatexpectations.io/
+292,Synq,https://www.synq.io/
+293,Sifflet,https://www.siffletdata.com/
+294,Databand,https://databand.ai/
+295,Telmai,https://www.telm.ai/
+296,Monte Carlo,https://www.montecarlodata.com/
+297,Metaplane,https://www.metaplane.dev/
+298,Lightup,https://www.lightup.ai/
+299,Soda,https://www.soda.io/
+300,Timeseer,https://www.timeseer.ai/
+301,Masthead Data,https://mastheadata.com/
+302,Datafold,https://www.datafold.com/
+303,Unravel Data,https://www.unraveldata.com/
+304,Bigeye,https://www.bigeye.com/
+305,Anomalo,https://www.anomalo.com/
+306,Data Virtuality,https://datavirtuality.com/en/
+307,Fruition Data,https://www.fruitiondata.com/
+308,Mozart Data,https://www.mozartdata.com/
+309,DoubleCloud,https://double.cloud/
+310,Adverity,https://www.adverity.com/
+311,Prequel,https://www.prequel.co/
+312,Selfr,https://selfr.ai/
+313,Sequentum,https://www.sequentum.com/
+314,Nexla,https://www.nexla.com/
+315,Keboola,https://www.keboola.com/
+316,Y42,https://www.y42.com/
+317,5X,https://5x.co/
+318,Wavefront,https://marketplace.cloud.vmware.com/services/details/wavefront-by-vmware-always-the-latest/?slug=true
+319,DataSet,https://www.dataset.com/solutions/aws-monitoring/
+320,Rubrik,https://www.rubrik.com/
+321,Cribl,https://cribl.io/
+322,honeycomb.io,https://www.honeycomb.io/
+323,VMWare Aria,https://www.vmware.com/products/aria.html
+324,Moogsoft,https://www.moogsoft.com/
+325,Cast AI,https://cast.ai/
+326,ScienceLogic,https://sciencelogic.com/
+327,Amazon Cloudwatch,https://aws.amazon.com/cloudwatch/
+328,Dynatrace,https://www.dynatrace.com/
+329,Veeam,https://www.veeam.com/
+330,New Relic,https://newrelic.com/
+331,Solarwinds,https://www.solarwinds.com/
+332,Chronosphere,https://chronosphere.io/
+333,Splunk,https://www.splunk.com/
+334,PagerDuty,https://www.pagerduty.com/
+335,Embrace,https://embrace.io/
+336,Datadog,https://www.datadoghq.com/
+337,Cisco AppDynamics,https://www.appdynamics.com/
+338,GrafanaLabs,https://grafana.com/
+339,Privacera,https://privacera.com/
+340,OneTrust,https://www.onetrust.com/
+341,In Country,https://incountry.com/
+342,Opaque Systems,https://opaque.co/
+343,Piiano,https://www.piiano.com/
+344,Very Good Security,https://www.verygoodsecurity.com/
+345,Ketch,https://www.ketch.com/
+346,Transcend,https://transcend.io/
+347,Cyera,https://www.cyera.io/
+348,Duality Technologies,https://dualitytech.com/
+349,Relyance,https://www.relyance.ai/
+350,Alcion,https://www.alcion.ai/
+351,Privacy Dynamics,https://www.privacydynamics.io/
+352,PrivateAI,https://www.private-ai.com/
+353,OpenRaven,https://www.openraven.com/
+354,TripleBlind,https://tripleblind.com/
+355,Dasera,https://www.dasera.com/
+356,Cape Privacy,https://capeprivacy.com/
+357,SkyFlow,https://www.skyflow.com/
+358,Cyral,https://cyral.com/
+359,Privitar,https://www.privitar.com/
+360,Enveil,https://www.enveil.com/
+361,Datagrail,https://www.datagrail.io/
+362,Symmetry Systems,https://www.symmetry-systems.com/
+363,Exate,https://www.exate.com/
+364,HPE,https://www.hpe.com/us/en/home.html
+365,Microsoft Azure,https://azure.microsoft.com/en-us
+366,Equinix,https://www.equinix.com/
+367,Penguin Solutions,https://www.penguinsolutions.com/
+368,AWS Lambda,https://aws.amazon.com/lambda/
+369,Amazon EKS,https://aws.amazon.com/eks/
+370,Nvidia Bright Cluster,https://www.nvidia.com/en-us/data-center/bright-cluster-manager/
+371,Nuclio,https://nuclio.io/
+372,D2IQ,https://d2iq.com/
+373,Amazon ECS,https://aws.amazon.com/ecs/
+374,Google Cloud Functions,https://cloud.google.com/functions
+375,Digital Ocean,https://www.digitalocean.com/
+376,Microsoft Azure CycleCloud,https://learn.microsoft.com/en-us/azure/cyclecloud/overview?view=cyclecloud-8
+377,Domo,https://www.domo.com/
+378,Omni,https://www.exploreomni.com/
+379,Grow,https://www.grow.com
+380,Sas Business Intelligence,https://www.sas.com/en_us/solutions/business-intelligence.html
+381,Microstrategy,https://www.microstrategy.com/en
+382,GoodData,https://www.gooddata.com/
+383,Oracle Analytics,https://www.oracle.com/business-analytics/
+384,SAP Business Intelligence Suite,https://www.sap.com/products/technology-platform/bi-platform.html
+385,Kyvos,https://www.kyvosinsights.com/
+386,Whiz.ai,https://www.whiz.ai/
+387,Fluent,https://www.fluenthq.com/
+388,Tibco Spotfire,https://www.tibco.com/products/tibco-spotfire
+389,InforBirst,https://www.infor.com/solutions/advanced-analytics/business-intelligence/birst
+390,ThoughtSpot,https://www.thoughtspot.com/
+391,Veezoo,https://www.veezoo.com/
+392,Sisense,https://www.sisense.com/
+393,IBM Cognos Analytics,https://www.ibm.com/products/cognos-analytics
+394,SimplyPut,https://simplyput.ai/
+395,Popsql,https://popsql.com/
+396,Zing,https://getzingdata.com/
+397,Klipfolio,https://www.klipfolio.com/
+398,Metabase,https://www.metabase.com/
+399,Salesforce Einstein Analytics,https://www.salesforce.com/form/sem/sales-cloud/sales-einstein-demo/
+400,Atscale,https://www.atscale.com/
+401,Amazon QuickSight,https://aws.amazon.com/quicksight/
+402,Whaly,https://whaly.io/
+403,Looker,https://www.looker.com/
+404,Lightdash,https://www.lightdash.com/
+405,Toucan Toco,https://www.toucantoco.com/en/
+406,Zoho Analytics,https://www.zoho.com/analytics/
+407,Astrato,https://astrato.io/
+408,FusionCharts by Yellowfin,https://www.yellowfinbi.com/suite/fusioncharts
+409,Microsoft Power BI,https://powerbi.microsoft.com/en-us/
+410,SAP Lumira,https://www.sap.com/products/technology-platform/lumira.html
+411,Grid,https://grid.is/
+412,Graphext,https://www.graphext.com/
+413,Observable,https://observablehq.com/
+414,Preset,https://preset.io/
+415,Datawrapper,https://www.datawrapper.de/
+416,Tableau,https://www.tableau.com/
+417,Streamlit,https://streamlit.io/
+418,Google Data Studio,https://datastudio.withgoogle.com/
+419,Infogram,https://infogram.com/
+420,Luzmo,https://www.luzmo.com/
+421,Plotly,https://plotly.com/
+422,Rill,https://www.rilldata.com/
+423,Microsoft,https://www.microsoft.com/
+424,Airtable,https://www.airtable.com/
+425,Mode,https://mode.com/
+426,Pecan,https://www.pecan.ai/
+427,Narrator,https://www.narratordata.com/
+428,Anodot,https://www.anodot.com/
+429,Workstream,https://www.workstream.io/
+430,Hashboard,https://hashboard.com/
+431,Ascend.io,https://www.ascend.io/
+432,Smartsuite,https://www.smartsuite.com/
+433,Acho,https://acho.io/
+434,Sigma Computing,https://www.sigmacomputing.com/
+435,Guavus,https://www.guavus.com/
+436,Incorta,https://www.incorta.com/
+437,Preql,https://www.preql.com/
+438,Pyramid Analytics,https://www.pyramidanalytics.com/
+439,Trace,https://www.hellotrace.io/
+440,Deephaven,https://deephaven.io/
+441,Equals,https://equals.app/
+442,Seek AI,https://www.seek.ai/
+443,Cube,https://cube.dev/
+444,Sisu Data,https://sisudata.com/
+445,Rows,https://rows.com/poison-ivy-c3edaba4
+446,Noogata,https://noogata.com/
+447,Weld,https://weld.app/
+448,Tellius,https://www.tellius.com/
+449,Coginiti,https://www.coginiti.co/
+450,Datameer,https://www.datameer.com/
+451,Lido,https://www.lido.app/
+452,Clarisights,https://clarisights.com/
+453,Canvas,https://canvasapp.com/
+454,iGenius,https://www.igenius.ai/
+455,Blueconic,https://www.blueconic.com/
+456,Adobe Experience Platform,https://business.adobe.com/products/experience-platform/adobe-experience-platform.html
+457,Simon Data,https://www.simondata.com/
+458,Treasure Data,https://www.treasuredata.com/
+459,Syncari,https://syncari.com/
+460,mparticle,https://www.mparticle.com/
+461,Lytics,https://www.lytics.com/
+462,ActionIQ,https://www.actioniq.com/
+463,Blueshift,https://blueshift.com/
+464,Optimove,https://www.optimove.com/
+465,Growthloop,https://www.growthloop.com/
+466,Zeotap,https://zeotap.com/
+467,Insider,https://useinsider.com/
+468,Salesforce CDP,https://www.salesforce.com/products/marketing-cloud/customer-data-platform/
+469,Amperity,https://amperity.com/
+470,Funnel,https://funnel.io/
+471,Data.ai,https://www.data.ai/en/
+472,Whatfix,https://whatfix.com/
+473,Avo,https://www.avo.app/
+474,Posthog,https://posthog.com/
+475,Google Analytics,https://analytics.google.com/analytics/web/provision/#/provision
+476,Mixpanel,https://mixpanel.com/
+477,Fullstory,https://www.fullstory.com/
+478,Pendo,https://www.pendo.io/
+479,Amplitude,https://amplitude.com/
+480,Kubit,https://kubit.ai/
+481,Glassbox,https://www.glassbox.com/
+482,Sprig,https://sprig.com/
+483,Heap,https://www.heap.io/
+484,Contentsquare,https://contentsquare.com/
+485,Better Stack,https://betterstack.com/
+486,LogicMonitor,https://www.logicmonitor.com/
+487,Observe,https://www.observeinc.com/
+488,Solarwinds loggly,https://www.solarwinds.com/loggly
+489,Mezmo,https://www.mezmo.com/
+490,Logmind,https://www.logmind.com/
+491,Google Cloud Logging,https://cloud.google.com/logging
+492,Azure Monitor,https://azure.microsoft.com/en-us/products/monitor
+493,Sematext,https://sematext.com/
+494,Graylog,https://graylog.org/
+495,Exabeam,https://www.exabeam.com/
+496,LogRythm,https://logrhythm.com/
+497,Elastic,https://www.elastic.co/kibana/
+498,Sumologic,https://www.sumologic.com/
+499,Coralogix,https://coralogix.com/
+500,Logz.io,https://logz.io/
+501,Nuclia,https://nuclia.com/
+502,Guru,https://www.getguru.com/
+503,Amazon Kendra,https://aws.amazon.com/kendra/
+504,Amazon CloudSearch,https://aws.amazon.com/cloudsearch/
+505,Bloomfire,https://bloomfire.com/
+506,Glean,https://www.glean.com/
+507,Moveworks,https://www.moveworks.com/
+508,AWS OpenSearch,https://aws.amazon.com/what-is/opensearch/
+509,Alphasense,https://www.alpha-sense.com/
+510,Oracle Endeca,"https://www.oracle.com/middleware/technologies/endeca-server.html#:~:text=Oracle%20Endeca%20Server%20is%20a,Server%20is%20designed%20for%20discovery."
+511,Lucidworks,https://lucidworks.com/
+512,Sinequa,https://www.sinequa.com/
+513,Stravito,https://www.stravito.com/
+514,Coveo,https://www.coveo.com/en
+515,Onna,https://onna.com/
+516,Dashworks,https://www.dashworks.ai/
+517,Algolia,https://www.algolia.com/
+518,Hebbia,https://www.hebbia.ai/
+519,Microsoft Azure Cognitive Search,https://azure.microsoft.com/en-us/products/cognitive-services/
+520,Vectara,https://vectara.com/
+521,Quickwit,https://quickwit.io/
+522,Cocalc,https://cocalc.com/
+523,Azure Notebooks,https://visualstudio.microsoft.com/vs/features/notebooks-at-microsoft/
+524,Hex,https://hex.tech/
+525,SaturnCloud,https://saturncloud.io/
+526,NextJournal,https://nextjournal.com/
+527,Amazon SageMaker,https://aws.amazon.com/pm/sagemaker/
+528,Deepnote,https://deepnote.com/
+529,Jupyter,https://jupyter.org/
+530,Google Cloud Vertex AI,https://cloud.google.com/vertex-ai
+531,Binder,https://mybinder.org/
+532,Google Colab,https://colab.research.google.com/
+533,noteable,https://noteable.io/
+534,Curvenote,https://curvenote.dev/
+535,Count,https://count.co/
+536,Altair,https://www.altair.com/
+537,anaconda,https://www.anaconda.com/
+538,Sas,https://www.sas.com/en_us/home.html
+539,IBM Watson Studio,https://www.ibm.com/cloud/watson-studio
+540,Tibco,https://www.tibco.com/
+541,RapidMiner,https://rapidminer.com/
+542,Mathworks,https://www.mathworks.com/
+543,Knime,https://www.knime.com/
+544,Oracle Data Science Ser,https://www.oracle.com/artificial-intelligence/data-science/
+545,Aible,https://www.aible.com/
+546,Qwak,https://www.qwak.com/
+547,DataRobot,https://www.datarobot.com/
+548,Abacus.ai,https://abacus.ai/
+549,Dataiku,https://www.dataiku.com/
+550,Dataloop,https://dataloop.ai/
+551,H2O.ai,https://h2o.ai/
+552,Snorkel,https://snorkel.ai/
+553,Domino,https://www.dominodatalab.com/
+554,Modular,https://www.modular.com/
+555,Continual,https://continual.ai/
+556,Scale,https://scale.com/
+557,CausaLens,https://www.causalens.com/
+558,Azure Machine Learning,https://azure.microsoft.com/en-us/products/machine-learning/#product-overview
+559,DotData,https://dotdata.com/
+560,CentML,https://centml.ai/
+561,Palantir Technologies,https://www.palantir.com/
+562,Graft,https://graft.com/
+563,Obviously.ai,https://www.obviously.ai/
+564,Amazon MechanicalTurk,https://www.mturk.com/
+565,Hazy,https://hazy.com/
+566,Sama,https://www.sama.com/
+567,HumanSignal,https://humansignal.com/
+568,Upwork,https://www.upwork.com/
+569,SuperAnnotate,https://www.superannotate.com/
+570,V7,https://www.v7labs.com/
+571,Voxel51,https://voxel51.com/
+572,Labelbox,https://labelbox.com/
+573,Datagen,https://datagen.tech/
+574,CloudFactory,https://www.cloudfactory.com/
+575,Hive,https://thehive.ai/
+576,Alegion,https://www.alegion.com/
+577,Kili,https://kili-technology.com/
+578,Refuel,https://www.refuel.ai/
+579,Unity,https://unity.com/
+580,super.ai,https://super.ai/
+581,Gretel,https://gretel.ai/
+582,Appen,https://appen.com/
+583,Defined.ai,https://defined.ai/
+584,Tonic AI,https://www.tonic.ai/
+585,MostlyAI,https://mostly.ai/
+586,Datasaur,https://datasaur.ai/
+587,Superb AI,https://www.superb-ai.com/
+588,Weights & Biases,https://wandb.ai/site
+589,Fal.ai,https://fal.ai/
+590,Verta,https://www.verta.ai/
+591,Seldon,https://www.seldon.io/
+592,MindsDB,https://mindsdb.com/
+593,Modzy,https://www.modzy.com/
+594,ZenML,https://zenml.io/home
+595,Iterative,https://iterative.ai/
+596,Tecton,https://www.tecton.ai/
+597,Deci,https://deci.ai/
+598,Featurebyte,https://featurebyte.com/
+599,Modelbit,https://www.modelbit.com/
+600,AI Squared,https://squared.ai/
+601,Galileo,https://www.rungalileo.io/
+602,Feast,https://feast.dev/
+603,Comet,https://www.comet.com/site/
+604,Valohai,https://valohai.com/
+605,Hopsworks,https://www.hopsworks.ai/
+606,Xethub,https://about.xethub.com/
+607,Datatron,https://datatron.com/
+608,Aimon,https://aimon.ai/
+609,Usage Panda,https://usagepanda.com/
+610,HowSo,https://www.howso.com/
+611,Gantry,https://gantry.io/
+612,LatticeFlow,https://latticeflow.ai/
+613,Evidently AI,https://www.evidentlyai.com/
+614,Fiddler AI,https://www.fiddler.ai/
+615,Distributional,https://distributional.com/
+616,Braintrust Data,https://www.braintrustdata.com/
+617,WhyLabs,https://whylabs.ai/
+618,Patronus AI,https://www.patronus.ai/
+619,Cranium,https://www.cranium.ai/
+620,Aporia,https://www.aporia.com/
+621,Chainlit,https://github.com/Chainlit/chainlit
+622,NannyML,https://www.nannyml.com/
+623,Mithril Security,https://www.mithrilsecurity.io/
+624,Truera,https://truera.com/
+625,Klu,https://klu.ai/
+626,Arize AI,https://arize.com/
+627,HoneyHive,https://honeyhive.ai/
+628,Arthur,https://www.arthur.ai/
+629,Neptune.ai,https://neptune.ai/
+630,Martian,https://withmartian.com/
+631,Adaptive,https://www.adaptive-ml.com/
+632,Fireworks AI,https://fireworks.ai/
+633,Neural Magic,https://neuralmagic.com/
+634,BentoML,https://www.bentoml.com/
+635,Humanloop,https://humanloop.com/
+636,Voyage AI,https://www.voyageai.com/
+637,Predibase,https://predibase.com/
+638,Langchain,https://www.langchain.com/
+639,Lightning AI,https://lightning.ai/
+640,AirOps,https://www.airops.com/
+641,Fixie,https://www.fixie.ai/
+642,Lamini,https://www.lamini.ai/
+643,OctoML,https://octoml.ai/
+644,Substrate,https://www.substrate.run/
+645,Inngest,https://www.inngest.com/
+646,LastMile AI,https://lastmileai.dev/
+647,LlamaIndex,https://www.llamaindex.ai/
+648,Arcee AI,https://www.arcee.ai/#
+649,Prompt Security,https://www.prompt.security/
+650,Anch.AI,https://anch.ai/
+651,HiddenLayer,https://hiddenlayer.com/
+652,Saidot.ai,https://www.saidot.ai/
+653,Trustible,https://www.trustible.ai/
+654,Konfer,https://konfer.ai/
+655,Calypso AI,https://calypsoai.com/
+656,Aim Security,https://www.aim.security/
+657,Credo AI,https://www.credo.ai/
+658,Lumenova,https://www.lumenova.ai/
+659,Holistic AI,https://www.holisticai.com/
+660,Preamble,https://www.preamble.com/
+661,Reality Defender,https://realitydefender.com/
+662,Kindo,https://kindo.ai/
+663,Quantpi,https://www.quantpi.com/
+664,Enzai,https://www.enz.ai/
+665,Monitaur,https://www.monitaur.ai/
+666,Insightcircle,
+667,Rebuff AI,https://www.rebuff.ai/
+668,Fairly,https://www.fairly.ai/
+669,Guardrails AI,https://docs.guardrailsai.com/
+670,Calvinrisk,https://www.calvin-risk.com/
+671,p0,https://p0.inc/#intro
+672,Robust Intelligence,https://www.robustintelligence.com/
+673,Credal,https://www.credal.ai/
+674,Giskard,https://www.giskard.ai/
+675,Apheris,https://www.apheris.com/
+676,Synativ,https://www.synativ.com/
+677,Amazon Rekognition,https://docs.aws.amazon.com/managedservices/latest/userguide/rekognition.html
+678,Google Cloud Vision API,https://cloud.google.com/vision
+679,Prophesee,https://www.prophesee.ai/
+680,Clearview.ai,https://www.clearview.ai/
+681,Rerun,https://www.rerun.io/
+682,CoreML,https://developer.apple.com/machine-learning/core-ml/
+683,Chooch,https://www.chooch.com/
+684,Encord,https://encord.com/
+685,Clarifai,https://www.clarifai.com/
+686,Azure Cognitive Services,https://azure.microsoft.com/en-us/products/cognitive-services/
+687,Gridspace,https://www.gridspace.com/
+688,Speechmatics,https://www.speechmatics.com/
+689,Amazon Transcribe,https://aws.amazon.com/transcribe/
+690,Eleven Labs,https://beta.elevenlabs.io/
+691,Gladia,https://www.gladia.io/
+692,Microsoft Cortana,https://www.microsoft.com/en-us/cortana
+693,Avoma,https://www.avoma.com/
+694,DeepGram,https://deepgram.com/
+695,AssemblyAI,https://www.assemblyai.com/
+696,OtterAI,https://otter.ai/
+697,Amazon Polly,https://aws.amazon.com/polly/
+698,Poly.ai,https://poly.ai/
+699,SoundHound Inc,https://www.soundhound.com/
+700,Cogito,https://cogitocorp.com/
+701,Amazon Alexa,https://alexa.amazon.com/
+702,Verbit,https://verbit.ai/
+703,Sembly AI,https://www.sembly.ai/
+704,Siri,https://www.apple.com/siri/
+705,Nuance,https://www.nuance.com/index.html
+706,Symbl AI,https://symbl.ai/
+707,Google Natural Language AI,https://cloud.google.com/natural-language
+708,Lilt,https://lilt.com/
+709,Hume AI,https://hume.ai/
+710,Argilla,https://argilla.io/
+711,Unbabel,https://unbabel.com/
+712,Amenity,https://www.amenityanalytics.com/
+713,Primer,https://primer.ai/
+714,Explosion,https://explosion.ai/
+715,Hugging Face,https://huggingface.co/
+716,Emotibot,https://www.emotibot.com
+717,Smartling,https://www.smartling.com/
+718,Cohere,https://cohere.ai/
+719,Amazon Comprehend,https://aws.amazon.com/comprehend/
+720,Deepset,https://www.deepset.ai/
+721,Amazon Translate,https://aws.amazon.com/translate/
+722,Rasa,https://rasa.com/
+723,DeepL,https://www.deepl.com/translator
+724,Language I/O,https://languageio.com/
+725,Yitu,https://www.yitutech.com/en
+726,Contextual AI,https://contextual.ai/
+727,Meta Research,https://research.facebook.com/
+728,Extropic,https://www.extropic.ai/
+729,xAI,https://x.ai/
+730,Anthropic,https://www.anthropic.com/
+731,Conjecture,https://www.conjecture.dev/
+732,Microsoft Research,https://www.microsoft.com/en-us/research/
+733,Inflection,https://inflection.ai/
+734,AI21Labs,https://www.ai21.com/
+735,Keen Technologies,https://keenagi.com/
+736,Adept,https://www.adept.ai/
+737,Imbue,https://imbue.com/
+738,Sema4.ai,https://sema4.ai/
+739,Numenta,https://www.numenta.com/
+740,Krutrim,https://olakrutrim.com/
+741,Mistral AI,https://mistral.ai/
+742,Reka,https://reka.ai/
+743,4Paradigm,https://en.4paradigm.com/index.html
+744,01.ai,https://01.ai/
+745,Liquid,https://www.liquid.ai/
+746,Normal Computing,https://normalcomputing.ai/
+747,Google Research,https://research.google/
+748,LightOn,https://www.lighton.ai/
+749,OpenAI,https://openai.com/
+750,Aleph Alpha,https://www.aleph-alpha.com/
+751,Google DeepMind,https://www.deepmind.com/
+752,AI Foundation,https://aifoundation.com/
+753,MIT Csail,https://www.csail.mit.edu/
+754,Allen Institute,https://allenai.org/
+755,DFKI,https://www.dfki.de/en/web
+756,Eleuther AI,https://www.eleuther.ai/
+757,Vector Institute,https://vectorinstitute.ai/
+758,OFAI,https://www.ofai.at/
+759,MILA,https://mila.quebec/en/
+760,MIRI,https://intelligence.org/
+761,Kyutai,https://kyutai.org/
+762,Arm,https://www.arm.com/markets/artificial-intelligence
+763,Nvidia,https://www.nvidia.com/en-us/
+764,AMD,https://www.amd.com/en.html
+765,Berkshire Grey,https://www.berkshiregrey.com/
+766,Etched,https://www.etched.ai/
+767,Illuvatar CoreX,
+768,Tenstorrent,https://tenstorrent.com/
+769,Speedata,https://www.speedata.io/
+770,Cornami,https://cornami.com/
+771,Rebellions,https://rebellions.ai/
+772,Horizon Robotics,https://en.horizon.ai/
+773,Microsoft Maia,https://news.microsoft.com/source/features/ai/in-house-chips-silicon-to-service-to-meet-ai-demand/
+774,Celestial AI,https://www.celestial.ai/
+775,Blaize,https://www.blaize.com/
+776,Groq,https://groq.com/
+777,Google TPU,https://cloud.google.com/tpu
+778,Graphcore,https://www.graphcore.ai/
+779,Mobileye,https://www.mobileye.com/
+780,Intellifusion,https://www.intellif.com/
+781,Lightmatter,https://lightmatter.co/
+782,AWS Inferentia,https://aws.amazon.com/machine-learning/inferentia/
+783,Cambricon,https://www.cambricon.com/
+784,SambaNova,https://sambanova.ai/
+785,Intel AI,https://www.intel.com/content/www/us/en/artificial-intelligence/software.html
+786,Hailo,https://hailo.ai/
+787,Cerebras,https://www.cerebras.net/
+788,Credo,https://credosemi.com/
+789,Exafunction,https://www.exafunction.com/
+790,CoreWeave,https://www.coreweave.com/
+791,Paperspace,https://www.paperspace.com/
+792,NVIDIA,https://www.nvidia.com/en-us/
+793,Together,https://together.ai/
+794,Scaleway,https://www.scaleway.com/en/
+795,Modal,https://modal.com/
+796,Coiled,https://www.coiled.io/
+797,Anyscale,https://www.anyscale.com/
+798,Banana,https://www.banana.dev/
+799,HippoML,https://hippoml.com/
+800,RunAI,https://www.run.ai/
+801,Replicate,https://replicate.com/
+802,Baseten,https://www.baseten.co/
+803,Cerebrium,https://www.cerebrium.ai/
+804,Inference,https://inference.ai/
+805,Gradient AI,https://gradient.ai/
+806,Databricks MosaicML,https://www.mosaicml.com/
+807,Beam,https://www.beam.cloud/
+808,Lambda,https://lambdalabs.com/
+809,Axelera AI,https://www.axelera.ai/
+810,Deeplite,https://www.deeplite.ai/
+811,Mythic,https://mythic.ai/
+812,Armada,https://www.armada.ai/
+813,Syntiant,https://www.syntiant.com/
+814,SiMa.ai,https://sima.ai/
+815,Qeexo,https://qeexo.com/
+816,Edge Impulse,https://www.edgeimpulse.com/
+817,Nota AI,https://www.nota.ai/
+818,Adept ACT 1,https://www.adept.ai/blog/act-1
+819,Adobe Firefly,https://www.adobe.com/products/firefly.html
+820,Anthropic Claude 2,https://www.anthropic.com/news/claude-2
+821,Poe,https://poe.com/login
+822,Google Bard,https://blog.google/technology/ai/bard-google-ai-search-updates/
+823,AI21 Labs Jurassic,https://www.ai21.com/blog/announcing-ai21-studio-and-jurassic-1
+824,Google Research PaLM 2,https://ai.google/discover/palm2/
+825,DeepMind Gopher,https://www.deepmind.com/blog/language-modelling-at-scale-gopher-ethical-considerations-and-retrieval
+826,Google Research PaLM,https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html
+827,Google DeepMind Imagen 2,https://deepmind.google/technologies/imagen-2/
+828,Grok,https://grok.x.ai/
+829,Anthropic Claude Instant,https://www.anthropic.com/news/releasing-claude-instant-1-2
+830,OpenAI GPT4,https://openai.com/research/gpt-4
+831,Cohere Command,https://cohere.com/models/command
+832,Google Research LaMDA,https://blog.google/technology/ai/lamda/
+833,Writer Palmyra X,https://dev.writer.com/docs/quickstart
+834,Midjourney,https://midjourney.com/home/?callbackUrl=%2Fapp%2F
+835,Google Research Imagen,https://imagen.research.google/
+836,OpenAI GPT3.5,https://platform.openai.com/docs/models/gpt-3-5
+837,AI21 Labs Jurassic 2,https://www.ai21.com/blog/introducing-j2
+838,OpenAI ChatGPT,https://openai.com/blog/chatgpt/
+839,OpenAI GPT3,https://openai.com/blog/gpt-3-apps/
+840,Google Gemini,https://gemini.google.com/
+841,Anthropic Claude 3,https://www.anthropic.com/news/claude-3-family
+842,Anthropic Claude,https://claude.ai/login?returnTo=%2F
+843,Inflection 2,https://inflection.ai/inflection-2
+844,Inflection Pi,https://hello.pi.ai/?utm_source=google&utm_medium=cpc&utm_campaign=NG_SRCH_TM_PRO_Branded&utm_term=pi%20inflection&utm_content=NG_SRCH_TM_EMPM_General&ad_id=&688504651633&gad_source=1&gclid=CjwKCAiAopuvBhBCEiwAm8jaMWdxy21Joy1PsgvZKwqm98d48s11xQCcFymVbNHSBPRjWYCOIvFUThoClk8QAvD_BwE
+845,Mistral AI Au Large,https://mistral.ai/news/mistral-large/
+846,Deepmind Chinchilla,https://gpt3demo.com/apps/chinchilla-deepmind
+847,BaiduResearch Ernie 3.0,http://research.baidu.com/Index
+848,Writer Palmyra,https://dev.writer.com/docs/quickstart
+849,Toplyne,https://www.toplyne.io/
+850,Collective[i],https://www.collectivei.com/
+851,Attention,https://www.attention.tech/
+852,Twain,https://www.twain.ai/
+853,Databook,https://trydatabook.com/
+854,RevComm,https://miitel.com/revcomm-us/
+855,Salesloft,https://salesloft.com/
+856,Outreach,https://www.outreach.io/
+857,Headsup,https://www.headsup.ai/
+858,R2D2,https://www.joinr2d2.com/
+859,Aviso,https://www.aviso.com/
+860,Unify,https://www.unifygtm.com/
+861,MadKudu,https://www.madkudu.com/
+862,HubSpot,https://www.hubspot.com/
+863,People.ai,https://people.ai/
+864,Clari,https://www.clari.com/
+865,Closefactor,https://closefactor.com/
+866,Salesform,https://salesform.com/
+867,Gong,https://www.gong.io/
+868,Lavender,https://www.trylavender.com/
+869,Telescope,https://trytelescope.ai/
+870,Salesforce Einstein,https://www.salesforce.com/products/einstein/overview/
+871,Regie.ai,https://www.regie.ai/
+872,Conversica,https://www.conversica.com/
+873,Clay,https://www.clay.com/
+874,Clearbit,https://clearbit.com/
+875,Copysmith,https://copysmith.ai/
+876,NextRoll,https://www.nextroll.com/
+877,Jasper,https://www.jasper.ai/
+878,Writer,https://writer.com/
+879,Lately,https://www.lately.ai/
+880,Copy.ai,https://www.copy.ai/
+881,Bluecore,https://www.bluecore.com/
+882,Lily ai,https://www.lily.ai/
+883,Zeta Global,https://zetaglobal.com/
+884,Writesonic,https://writesonic.com/
+885,DreamData,https://dreamdata.io/
+886,Recast AI,https://recastai.com/
+887,Loops,https://loops.so/
+888,Attentive,https://www.attentive.com/
+889,Invoca,https://www.invoca.com/
+890,6sense,https://6sense.com/
+891,Persado,https://www.persado.com/
+892,Active Campaign,https://www.activecampaign.com/
+893,Bloomreach,https://www.bloomreach.com/en
+894,Demandbase,https://www.demandbase.com/
+895,Demandwell,https://www.demandwell.com/
+896,Mutiny,https://www.mutinyhq.com/
+897,Phrasee,https://phrasee.co/
+898,Pepper Content,https://www.peppercontent.io/
+899,Klaviyo,https://www.klaviyo.com/
+900,Adcreative,https://www.adcreative.ai/
+901,Appier,https://www.appier.com/en/
+902,Rytr,https://rytr.me/?via=nameless
+903,Braze,https://www.braze.com/
+904,Vendelux,https://vendelux.com/
+905,Typeface,https://www.typeface.ai/
+906,Customer.io,https://customer.io/
+907,Zendesk,https://www.zendesk.com/
+908,Liveperson,https://www.liveperson.com/
+909,AWS Amazon Lex,https://aws.amazon.com/lex/
+910,Kasisto,https://kasisto.com/
+911,Dashbot,https://www.dashbot.io/
+912,Uniphore,https://www.uniphore.com/
+913,Ada,https://www.ada.cx/
+914,Slang.ai,https://www.slang.ai/
+915,Kore.ai,https://kore.ai/
+916,Sprinklr,https://www.sprinklr.com/
+917,Sierra AI,https://sierra.ai/
+918,Moengage,https://www.moengage.com/
+919,Forethought,https://forethought.ai/
+920,Netomi,https://www.netomi.com/
+921,Observe.ai,https://www.observe.ai/
+922,Ask-AI,https://www.ask-ai.com/
+923,Typewise,https://www.typewise.app/
+924,Afiniti,https://www.afiniti.com/
+925,Watson Assistant,https://www.ibm.com/products/watson-assistant
+926,Dialogflow,https://developers.google.com/learn/pathways/chatbots-dialogflow
+927,Dialpad,https://www.dialpad.com/
+928,Asapp,https://www.asapp.com/
+929,Ultimate,https://www.ultimate.ai/
+930,Drift,https://www.drift.com/
+931,Frame.ai,https://frame.ai/
+932,Maven AGI,https://www.mavenagi.com/
+933,CallMiner,https://callminer.com/
+934,Yellow.ai,https://yellow.ai/
+935,Cresta,https://cresta.com/
+936,Certainly,https://certainly.io/
+937,Intercom,https://www.intercom.com/
+938,Genesys,https://www.genesys.com/
+939,Dovetail,https://dovetail.com/ai/
+940,Visier,https://www.visier.com/
+941,Textio,https://textio.com/
+942,eightfold.ai,https://eightfold.ai/
+943,Gloat,https://gloat.com/
+944,Lattice,https://lattice.com/
+945,The Predictive Index,https://www.predictiveindex.com/
+946,Scribe,https://scribehow.com/scribe-ai
+947,Harver,https://harver.com/
+948,PandoLogic,https://pandologic.com/
+949,Beamery,https://beamery.com/
+950,Seekout,https://www.seekout.com/ssd
+951,Moonhub,https://www.moonhub.ai/
+952,HireVue,https://www.hirevue.com/
+953,Fetcher,https://fetcher.ai/
+954,StepStone,https://www.stepstone.com/en/
+955,Turing,https://www.turing.com/
+956,Entelo,https://www.entelo.com/
+957,Antworks,https://www.ant.works/
+958,Abbyy,https://www.abbyy.com/
+959,Ocrolus,https://www.ocrolus.com/
+960,Axiom AI,https://axiom.ai/
+961,JIFFY.ai,https://jiffy.ai/
+962,UiPath,https://www.uipath.com/
+963,Kognitos,https://www.kognitos.com/
+964,HyperScience,https://hyperscience.com/
+965,Workato,https://www.workato.com/
+966,DeepOpinion,https://go.deepopinion.ai/
+967,Bardeen.ai,https://www.bardeen.ai/
+968,Tungsten Automation,https://www.tungstenautomation.com/
+969,Levity AI,https://levity.ai/
+970,Luminai,https://www.luminai.com/
+971,Eigen Technologies,https://eigentech.com/
+972,Rossum,https://rossum.ai/
+973,Orby AI,https://www.orby.ai/
+974,Zapier,https://zapier.com/
+975,Instabase,https://instabase.com/
+976,Celonis,https://www.celonis.com/
+977,Alkymi,https://www.alkymi.io/
+978,Tonkean,https://tonkean.com/
+979,Buynomics,https://www.buynomics.com/
+980,Arena,https://www.arena-ai.com/
+981,NextMV,https://www.nextmv.io/
+982,Paretos,https://paretos.com/
+983,Lyric,https://lyric.tech/
+984,Peak AI,https://peak.ai/us/
+985,Aera Technology,https://www.aeratechnology.com/
+986,Linksquares,https://linksquares.com/
+987,Eve,https://www.eve.legal/
+988,EvenUp,https://www.evenuplaw.com/
+989,Spellbook,https://www.spellbook.legal/
+990,Thomson Reuters Casetext,https://casetext.com/
+991,LexCheck,https://www.lexcheck.com/
+992,DoNotPay,https://donotpay.com/
+993,Harvey,https://www.harvey.ai/
+994,Ironclad,https://ironcladapp.com/
+995,Reveal Data,https://revealdata.com/
+996,TermScout,https://www.termscout.com/
+997,Darrow,https://www.darrow.ai/
+998,Robin AI,https://www.robinai.com/
+999,Lexion,https://www.lexion.ai/
+1000,ContractPodAI,https://contractpodai.com/
+1001,icertis,https://www.icertis.com/
+1002,Pincites,https://www.pincites.com/
+1003,Paxton,https://www.paxton.ai/
+1004,CS Disco,https://csdisco.com/
+1005,Relativity,https://www.relativity.com/
+1006,Everlaw,https://www.everlaw.com/
+1007,Midpage,https://www.midpage.ai/
+1008,Luminance,https://www.luminance.com/
+1009,Reveal,https://reveal.co/
+1010,LiveRamp Habu,https://habu.com/
+1011,Partnertap,https://partnertap.com/
+1012,Infosum,https://www.infosum.com/
+1013,Vendia,https://www.vendia.com/
+1014,Workspan,https://www.workspan.com/
+1015,Crossbeam,https://www.crossbeam.com/
+1016,Partnerstack,https://partnerstack.com/
+1017,Logically,https://www.logically.ai/
+1018,Unitary,https://www.unitary.ai/
+1019,MinervaAI,https://www.minervaai.io/
+1020,Fern AI,https://fern.ai/
+1021,Weave AI,https://www.weave.ai/
+1022,Vanta,https://www.vanta.com/
+1023,Greenlite,https://www.greenlite.ai/
+1024,Hummingbird,https://hummingbird.co/
+1025,Compliance AI,https://www.compliance.ai/
+1026,Forter,https://www.forter.com/
+1027,Comply Advantage,https://complyadvantage.com/
+1028,Norm AI,https://www.norm.ai/
+1029,Drata,https://drata.com/
+1030,Hadrius,https://www.hadrius.com/
+1031,Metronome,https://metronome.com/
+1032,Causal,https://www.causal.app/
+1033,Digits,https://digits.com/
+1034,Arteria AI,https://www.arteria.ai/
+1035,Datarails,https://www.datarails.com/
+1036,Arkifi,https://www.arkifi.ai/
+1037,Planful,https://planful.com/
+1038,SAP S/4 HANA,https://www.sap.com/products/erp/s4hana.html
+1039,Anrok,https://www.anrok.com/
+1040,Zuora,https://www.zuora.com/
+1041,WiseLayer,https://www.wiselayer.com/
+1042,Appzen,https://www.appzen.com/
+1043,Pigment,https://www.gopigment.com/
+1044,Highradius,https://www.highradius.com/
+1045,Vena,https://www.venasolutions.com/
+1046,Vic.ai,https://www.vic.ai/
+1047,Anaplan,https://www.anaplan.com/
+1048,Avalara,https://www.avalara.com/us/en/index.html
+1049,Botkeeper,https://www.botkeeper.com/
+1050,Pilot,https://pilot.com/
+1051,m3ter,https://www.m3ter.com/
+1052,Orb,https://www.withorb.com/
+1053,Lago,https://www.getlago.com/
+1054,OpenEnvoy,https://www.openenvoy.com/
+1055,Truewind,https://www.truewind.ai/en/
+1056,oracle Netsuite,https://www.netsuite.com/portal/home.shtml
+1057,Stenography,https://stenography.dev/
+1058,Anima,https://www.animaapp.com/
+1059,Magic,https://magic.dev/
+1060,Salesforce CodeGen,https://blog.salesforceairesearch.com/codegen/
+1061,Mutable.ai,https://mutable.ai/
+1062,GitHub Copilot,https://github.com/features/copilot
+1063,Daytona,https://www.daytona.io/
+1064,Mintlify,https://mintlify.com/
+1065,CodeComplete,https://www.codecomplete.ai/
+1066,AWS CodeWhisperer,https://aws.amazon.com/codewhisperer/
+1067,Codeium,https://codeium.com/
+1068,AI2sql,https://www.ai2sql.io/
+1069,Codium,https://codium.ai/
+1070,Warp,https://www.warp.dev/
+1071,Machinet,https://machinet.net/
+1072,Replit,https://replit.com/
+1073,TabbyML,https://tabby.tabbyml.com/
+1074,Cosine,https://cosine.sh/
+1075,Cursor,https://cursor.sh/
+1076,Debuild,https://debuild.app/
+1077,Tabnine,https://www.tabnine.com/
+1078,Laredo Labs,https://laredolabs.com/
+1079,Moderne,https://www.moderne.io/
+1080,Cody,https://sourcegraph.com/cody
+1081,Factory,https://www.factory.ai/
+1082,Poolside,https://www.poolside.ai/
+1083,Astral,https://astral.sh/
+1084,Diffblue,https://www.diffblue.com/
+1085,Coda,https://coda.io/
+1086,Wordtune,https://www.wordtune.com/
+1087,Cogram,https://www.cogram.com/
+1088,Fable,https://fableml.com/
+1089,Grammarly,https://www.grammarly.com/
+1090,OneAI,https://www.oneai.com/
+1091,Subtxt,https://subtxt.app/
+1092,Sudowrite,https://www.sudowrite.com/
+1093,Scalenut,https://www.scalenut.com/
+1094,Strut,https://strut.so/
+1095,Laika,https://www.writewithlaika.com/
+1096,HyperWrite,https://hyperwriteai.com/
+1097,NovelAI,https://novelai.net/
+1098,Compose.ai,https://www.compose.ai/
+1099,Craftly AI,https://www.craftly.ai/
+1100,Moonbeam,https://www.gomoonbeam.com/
+1101,Podcastle,https://podcastle.ai/
+1102,TuneFlow,https://tuneflow.com/
+1103,Mubert,https://mubert.com/
+1104,Podcast.ai,https://podcast.ai/
+1105,Descript,https://www.descript.com/
+1106,Replica Studios,https://replicastudios.com/
+1107,Coqui,https://coqui.ai/
+1108,Boomy,https://boomy.com/
+1109,Murf.ai,https://murf.ai/
+1110,Riverside,https://riverside.fm/
+1111,Sanas,https://www.sanas.ai/
+1112,Splash,https://www.splashmusic.com/
+1113,Aiva,https://www.aiva.ai/
+1114,Krisp,https://krisp.ai/
+1115,Aimi,https://www.aimi.fm/
+1116,Resemble.ai,https://www.resemble.ai/
+1117,Ad Auris,https://www.adauris.ai/
+1118,Sonify,https://www.sonify.io/
+1119,Okio,https://okio.ai/
+1120,Rilla,https://www.rilla.com/
+1121,Harmonai,https://www.harmonai.org/
+1122,Vocalid,https://vocalid.ai/
+1123,Play.ht,https://play.ht/
+1124,Audialab,https://audialab.com/
+1125,Fireflies,https://fireflies.ai/
+1126,Modulate,https://www.modulate.ai/
+1127,Supertone,https://supertone.ai/
+1128,Endel,https://endel.io/
+1129,Wellsaid,https://wellsaidlabs.com/
+1130,Neosapience,https://neosapience.com/
+1131,Voicemod,https://www.voicemod.net/
+1132,Suno,https://www.suno.ai/
+1133,Topaz Labs,https://www.topazlabs.com/
+1134,Hypotenuse AI,https://www.hypotenuse.ai/
+1135,Visionary.ai,https://www.visionary.ai/
+1136,Ideogram,https://ideogram.ai/login
+1137,Blend,https://www.blendnow.com/
+1138,imagen,https://imagen.research.google/
+1139,Waifu Labs,https://waifulabs.com/
+1140,Krea,https://www.krea.ai/
+1141,Alpaca,https://www.getalpaca.io/
+1142,Facet,https://facet.ai/
+1143,Finegrain,http://finegrain.ai/
+1144,Lets Enhance.io,https://letsenhance.io/
+1145,PhotoRoom,https://www.photoroom.com/
+1146,Nyx.gallery,https://nyx.gallery/
+1147,Metaspectral,https://metaspectral.com/
+1148,Windsor,https://www.windsor.io/
+1149,Visual Electric,https://visualelectric.com/
+1150,Artbreeder,https://www.artbreeder.com/
+1151,Mage.space,https://www.mage.space/
+1152,Lexica,https://lexica.art/
+1153,Prisma Labs,https://prisma-ai.com/
+1154,Lightricks,https://www.lightricks.com/
+1155,Playground,https://playgroundai.com/
+1156,Stability.ai,https://stability.ai/
+1157,PixelVibe,https://www.pixelvibe.com/
+1158,Craiyon,https://www.craiyon.com/
+1159,Adobe,https://www.adobe.com/
+1160,tome,https://tome.app/
+1161,Kittl,https://www.kittl.com/
+1162,Framer,https://www.framer.com/
+1163,Mem,https://mem.ai/
+1164,Beautiful.ai,https://www.beautiful.ai/
+1165,Durable,https://durable.co/
+1166,Figma,https://www.figma.com/
+1167,Moonshot AI,https://www.moonshot-ai.com/
+1168,Canva,https://www.canva.com/
+1169,Napkin,https://www.napkin.ai/
+1170,Picsart,https://picsart.com/
+1171,Modyfi,https://www.modyfi.com/
+1172,Galileo AI,https://www.usegalileo.ai/explore
+1173,Gamma,https://gamma.app/
+1174,Notion,https://www.notion.so/
+1175,Poly,https://withpoly.com/
+1176,Prezo,https://prezo.ai/
+1177,Vizcom,https://www.vizcom.ai/
+1178,Recraft,https://www.recraft.ai/
+1179,Remini,https://remini.ai/
+1180,Captions,https://www.captions.ai/
+1181,Lensa,https://lensa-ai.com/avatars/
+1182,Runway,https://runwayml.com/
+1183,Maverick,https://www.trymaverick.com/
+1184,Wombo.ai,https://www.wombo.ai/
+1185,Metaphysic,https://metaphysic.ai/
+1186,Ozone,https://www.ozone.pro/
+1187,Movio,https://www.movio.la/
+1188,Yepic.ai,https://www.yepic.ai/
+1189,Tavus,https://www.tavus.io/
+1190,Google Research Lumiere,https://lumiere-video.github.io/
+1191,Gan.ai,https://gan.ai/
+1192,Pictory,https://pictory.ai/
+1193,Soul Machines,https://www.soulmachines.com/
+1194,HeyGen,https://www.heygen.com/
+1195,Synthesia,https://www.synthesia.io/
+1196,Twelve Labs,https://twelvelabs.io/
+1197,Pika,https://pika.art/home
+1198,Fliki,https://fliki.ai/
+1199,Vidyo.ai,https://vidyo.ai/
+1200,EmbodyMe,https://embodyme.com/
+1201,Hour One,https://hourone.ai/
+1202,D-ID,https://www.d-id.com/
+1203,Deepbrain AI,https://www.deepbrain.io/
+1204,OpenAI Sora,https://openai.com/sora
+1205,Colossyan,https://www.colossyan.com/
+1206,Typecast,https://typecast.ai/
+1207,Veed.io,https://www.veed.io/
+1208,Didimo,https://www.didimo.co/
+1209,Inworld,https://www.inworld.ai/
+1210,Wonder Dynamics,https://wonderdynamics.com/
+1211,Layer,https://www.layer.ai/
+1212,Ready Player Me,https://readyplayer.me/
+1213,Hypothetic,https://www.hypothetic.art/
+1214,Flawless,https://www.flawlessai.com/
+1215,Leonardo.ai,https://leonardo.ai/
+1216,DataGrid,https://datagrid.co.jp/
+1217,Move,https://www.move.ai/
+1218,Convai,https://www.convai.com/
+1219,Multiverse Computing,https://multiversecomputing.com/
+1220,Spline,https://spline.design/
+1221,Kaedim,https://www.kaedim3d.com/
+1222,Anything World,https://anything.world/
+1223,AI Dungeon,https://aidungeon.com/
+1224,Avataar,https://www.avataar.ai/
+1225,Mirage,https://www.mirageml.com/
+1226,Luma.ai,https://lumalabs.ai/
+1227,Scenario,https://www.scenario.com/
+1228,CSM,https://csm.ai/
+1229,Astroblox,https://www.astrocade.com/
+1230,Physna,https://www.physna.com/
+1231,SandboxAQ,https://www.sandboxaq.com/
+1232,Perplexity,https://www.perplexity.ai/
+1233,Mistral Le Chat,https://mistral.ai/news/le-chat-mistral/
+1234,Personal AI,https://www.personal.ai/
+1235,WolframAlpha,https://www.wolframalpha.com/
+1236,Leena AI,https://leena.ai/
+1237,Voiceflow,https://www.voiceflow.com/
+1238,Deepsearch Labs,https://www.deepsearchlabs.com/
+1239,Character.ai,https://character.ai/
+1240,Dust,https://dust.tt/
+1241,Dot,https://new.computer/
+1242,Chai,https://www.chai-research.com/
+1243,nlx,https://www.nlx.ai/
+1244,Genei,https://www.genei.io/
+1245,Xembly,https://www.xembly.com/
+1246,Lindy,https://www.lindy.ai/
+1247,Luzia,https://www.luzia.com/en
+1248,You,https://you.com/
+1249,Kensho,https://kensho.com/
+1250,Noetica,https://noetica.ai/
+1251,Lemonade,https://www.lemonade.com/
+1252,Envelop Risk,https://www.enveloprisk.com/
+1253,Zest AI,https://www.zest.ai/
+1254,Planck,https://planckdata.com/
+1255,Seel,https://www.seel.com/
+1256,Zesty.ai,https://zesty.ai/
+1257,Farsight AI,https://www.farsight-ai.com/
+1258,Shift Technology,https://www.shift-technology.com/
+1259,Streetbeat,https://www.streetbeat.com/
+1260,Materia,https://www.trymateria.ai/
+1261,Enova,https://www.enova.com/
+1262,EvolutionIQ,https://evolutioniq.com/
+1263,Black Ore,https://www.blackore.ai/
+1264,Upstart,https://www.upstart.com/
+1265,Zelros,https://www.zelros.com/
+1266,Tractable,https://tractable.ai/
+1267,AlphaSense,https://www.alpha-sense.com/
+1268,Friss,https://www.friss.com/
+1269,Hyperplane,https://hyperplane.ai/
+1270,Cape Analytics,https://capeanalytics.com/
+1271,Basis,https://www.getbasis.ai/
+1272,Zeplyn,https://zeplyn.ai/
+1273,Taktile,https://www.taktile.com/
+1274,Arturo,https://arturo.ai/
+1275,Guidewire,https://www.guidewire.com/
+1276,Socure,https://www.socure.com/
+1277,Boosted.ai,https://boosted.ai/
+1278,Symphony AI Sensa,https://symphonysensa.com/
+1279,Cowbell,https://cowbell.insure/
+1280,Rad AI,https://www.radai.com/
+1281,Pager,https://pager.com/
+1282,Gesund AI,https://www.gesund.ai/
+1283,Regard,https://withregard.com/
+1284,Anomaly,https://www.findanomaly.com/
+1285,Cleerly,https://cleerlyhealth.com/
+1286,Turbine,https://turbine.ai/
+1287,Corti,https://www.corti.ai/
+1288,Latent,https://latenthealth.com/
+1289,Abacus Insights,https://abacusinsights.com/
+1290,Syapse,https://syapse.com/
+1291,Abridge,https://www.abridge.com/
+1292,Bayesian Health,https://www.bayesianhealth.com/
+1293,Tempus,https://www.tempus.com/
+1294,CoHelm,https://www.co-helm.com/
+1295,Imagen,https://imagen.ai/
+1296,Spring Health,https://springhealth.com/
+1297,Forta,https://www.fortahealth.com/
+1298,Ambience,https://www.ambiencehealthcare.com/
+1299,Aiberry,https://aiberry.io/
+1300,Aidoc,https://www.aidoc.com/
+1301,Deepscribe,https://www.deepscribe.ai/
+1302,Iterative Health,https://iterative.health/
+1303,Navina,https://www.navina.ai/
+1304,Fathom,https://www.fathomhealth.com/
+1305,Akasa,https://akasa.com/
+1306,Viz.ai,https://www.viz.ai/
+1307,Komodo Health,https://www.komodohealth.com/
+1308,Human DX,https://www.humandx.org/
+1309,Ezra,https://ezra.com/
+1310,Syllable.ai,https://syllable.ai/
+1311,Biofourmis,https://biofourmis.com/
+1312,SigTuple,https://sigtuple.com/
+1313,Sonio,https://sonio.ai/us/
+1314,Innovaccer,https://innovaccer.com/
+1315,Nabla,https://www.nabla.com
+1316,Vara,https://www.vara.ai/
+1317,John Snow Labs,https://www.johnsnowlabs.com/
+1318,Xyla,https://xyla.com/
+1319,Human Longevity,https://humanlongevity.com/
+1320,Enlitic,https://enlitic.com/
+1321,Grail,https://grail.com/
+1322,Eleos,https://eleos.health/
+1323,Memora Health,https://www.memorahealth.com/
+1324,Clarify,https://clarifyhealth.com/
+1325,Subtle Medical,https://subtlemedical.com/
+1326,Quibim,https://quibim.com/
+1327,Glass Health,https://glass.health/
+1328,LeanTaas,https://leantaas.com/
+1329,Flatiron,https://flatiron.com/
+1330,AiCure,https://aicure.com/
+1331,PathAI,https://www.pathai.com/
+1332,Caspar AI,https://caspar.ai/
+1333,SmarterDx,https://smarterdx.com/
+1334,Hippocratic AI,https://www.hippocraticai.com/
+1335,Unlearn.ai,https://www.unlearn.ai/
+1336,Recursion,https://www.recursion.com/
+1337,Elicit,https://elicit.com/
+1338,Rome Therapeutics,https://rometx.com/
+1339,Color,https://www.color.com/
+1340,Cradle Bio,https://www.cradle.bio/
+1341,Potion,https://www.potion.ai/
+1342,XtalPi,https://www.xtalpi.com/en
+1343,Moderna,https://www.modernatx.com/en-US?
+1344,PharmaTrace,https://www.pharmatrace.io/
+1345,Exscientia,https://www.exscientia.ai/
+1346,Labviva,https://www.labviva.com/
+1347,Lavo Life Sciences,https://www.lavo.ai/
+1348,Insitro,https://insitro.com/
+1349,Atomwise,https://www.atomwise.com/
+1350,ConcertAI,https://www.concertai.com/
+1351,Owkin,https://owkin.com/
+1352,Atropos Health,https://www.atroposhealth.com/
+1353,Schrodinger,https://www.schrodinger.com/
+1354,Insilico Medicine,https://insilico.com/
+1355,DNAnexus,https://www.dnanexus.com/
+1356,Verana Health,https://www.veranahealth.com/
+1357,ArsenalBio,https://www.arsenalbio.com/
+1358,Benchling,https://www.benchling.com/
+1359,Sophia Genetics,https://www.sophiagenetics.com/
+1360,JADBio,https://jadbio.com/
+1361,Verily,https://verily.com/
+1362,Immunai,https://www.immunai.com/
+1363,BenevolentAI,https://www.benevolent.com/
+1364,Relay Therapeutics,https://relaytx.com/
+1365,Deep Genomics,https://www.deepgenomics.com/
+1366,Freenome,https://www.freenome.com/
+1367,Valo Health,https://www.valohealth.com/
+1368,iCarbonX,https://www.icarbonx.com/en/
+1369,Aqemia,https://www.aqemia.com/
+1370,Nimbus Therapeutics,https://www.nimbustx.com/
+1371,Atomic AI,https://atomic.ai/
+1372,23andMe,https://www.23andme.com/
+1373,Century Health,https://century.health/
+1374,Ghost,https://www.ghostautonomy.com/
+1375,Cambridge Mobile Telematics,https://www.cmtelematics.com/
+1376,Luminar,https://www.luminartech.com/
+1377,Magna,https://www.magna.com/
+1378,Motional,https://motional.com/
+1379,Helm.ai,https://www.helm.ai/
+1380,Pony.ai,https://pony.ai/
+1381,Nexar,https://www.getnexar.com/
+1382,Tesla,https://www.tesla.com/
+1383,Via,https://ridewithvia.com/
+1384,Waymo,https://waymo.com/
+1385,Cruise,https://getcruise.com/
+1386,Kodiak Robotics,https://kodiak.ai/
+1387,Applied Intuition,https://www.appliedintuition.com/
+1388,Aptive,https://www.aptiv.com/en/solutions/autonomous-mobility
+1389,G7,https://www.g7.com.cn/
+1390,Phantom AI,https://phantom.ai/
+1391,DiDi,https://www.didiglobal.com/
+1392,Merlin Labs,https://www.merlinlabs.com/
+1393,Momenta,https://www.momenta.cn/
+1394,Wayve,https://www.wayve.ai/
+1395,MayMobility,https://maymobility.com/
+1396,Nio,https://www.nio.com/
+1397,Nuro,https://www.nuro.ai/
+1398,Uber,https://www.uber.com/
+1399,Iron Ox,https://ironox.com/
+1400,Bowery Farming,https://boweryfarming.com/
+1401,HowGood,https://howgood.com/
+1402,BensonHill,https://bensonhill.com/
+1403,Semios,https://semios.com/
+1404,Blue River Technology,https://bluerivertechnology.com/
+1405,FarmWise,https://farmwise.io/
+1406,Regrow,https://www.regrow.ag/
+1407,Taranis,https://www.taranis.com/
+1408,John Deere,https://www.deere.com/en/index.html
+1409,Farmers Business Network,https://www.fbn.com/
+1410,Pachama,https://pachama.com/
+1411,Verusen,https://verusen.com/
+1412,Basetwo,https://www.basetwo.ai/
+1413,GE Digital Predix,https://www.ge.com/digital/iiot-platform
+1414,Beyond limits,https://www.beyond.ai/
+1415,Augury,https://www.augury.com/
+1416,Instrumental,https://instrumental.com/
+1417,CloudMinds,https://www.cloudminds.com/en
+1418,Locus Robotics,https://locusrobotics.com/
+1419,Covariant,https://covariant.ai/
+1420,WeaveGrid,https://www.weavegrid.com/
+1421,MakinaRocks,https://www.makinarocks.ai/en/
+1422,Siemens,https://www.siemens.com/global/en.html
+1423,Osaro,https://osaro.com/
+1424,Arcol,https://www.arcol.io/
+1425,Geek+,/www.geekplus.com
+1426,AMP Robotics,https://www.amprobotics.com/
+1427,Stem,https://www.stem.com/
+1428,Johnson Controls,https://www.johnsoncontrols.com/
+1429,Built Robotics,https://www.builtrobotics.com/
+1430,Scortex,https://scortex.io/
+1431,Cognite,https://www.cognite.com/en/
+1432,Higharc,https://www.higharc.com/
+1433,Path Robotics,https://www.path-robotics.com/
+1434,Augmenta,https://www.augmenta.ai/
+1435,Agile Robots,https://www.agile-robots.com/
+1436,Deepomatic,https://deepomatic.com/
+1437,Zapata AI,https://zapata.ai/
+1438,Boston Dynamics,https://www.bostondynamics.com/
+1439,Intrinsic,https://intrinsic.ai/
+1440,Phaidra,https://www.phaidra.ai/
+1441,Muir.ai,https://www.muir.ai/
+1442,Outrider AI,https://www.outrider.ai/
+1443,Retrocausal,https://retrocausal.ai/
+1444,Matroid,https://www.matroid.com/
+1445,Verkada,https://www.verkada.com/
+1446,Crisp,https://www.gocrisp.com/
+1447,Agility Robotics,https://agilityrobotics.com/
+1448,Exodigo,https://www.exodigo.com/
+1449,Snaptrude,https://www.snaptrude.com/
+1450,Briq,https://briq.com/
+1451,Schneider Electric,https://www.se.com/us/en/
+1452,Skydio,https://www.skydio.com/
+1453,Bright Machines,https://www.brightmachines.com/
+1454,Uptake,https://www.uptake.com/
+1455,Slingshot Aerospace,https://www.slingshot.space/
+1456,Helsing,https://helsing.ai/
+1457,Vannevar Labs,https://www.vannevarlabs.com/
+1458,Dataminr,https://www.dataminr.com/
+1459,Mark43,https://mark43.com/
+1460,Yurts,https://www.yurts.ai/
+1461,Fortem Technologies,https://fortemtech.com/
+1462,Hadrian,https://www.hadrian.co/
+1463,Astranis,https://www.astranis.com/
+1464,Skywatch,https://skywatch.com/
+1465,Hayden,https://www.hayden.ai/
+1466,Streetlight Data,https://www.streetlightdata.com/
+1467,Modern Intelligence,https://www.modernintelligence.ai/
+1468,Astra,https://astra.com/
+1469,Fleet,https://fleetspace.com/
+1470,Kayhan Space,https://kayhan.space/
+1471,Apex,https://www.apexspace.com/
+1472,Saronic,https://www.saronic.com/
+1473,TurbineOne,https://www.turbineone.com/
+1474,Saildrone,https://www.saildrone.com/
+1475,Morpheus Space,https://www.morpheus.space/
+1476,Epirus,https://www.epirusinc.com/
+1477,Anduril,https://www.anduril.com/
+1478,Opengov,https://opengov.com/
+1479,Epsilon3,https://www.epsilon3.io/
+1480,Loft Orbital,https://www.loftorbital.com/
+1481,Mach Industries,https://mach.industries/
+1482,abl Space Systems,https://ablspacesystems.com/
+1483,Xona Space Systems,https://www.xonaspace.com/
+1484,Shield AI,https://shield.ai/
+1485,Leolabs,https://leolabs.space/
+1486,BlueHalo,https://bluehalo.com/
+1487,Adarga,https://adarga.ai/
+1488,Orbital Insight,https://orbitalinsight.com/
+1489,Blue Origin,https://www.blueorigin.com/
+1490,Percipient,https://www.percipient.ai/
+1491,Unanimous AI,https://unanimous.ai/
+1492,Varda Space,https://www.varda.com/
+1493,Blackshark.ai,https://blackshark.ai/
+1494,Hedron,https://www.hedron.space/
+1495,Air Space Intelligence,https://www.airspace-intelligence.com/
+1496,Rebellion,https://rebelliondefense.com/
+1497,SpaceX,https://www.spacex.com/
+1498,Relativity Space,https://www.relativityspace.com/
+1499,Northwood Space,https://www.northwoodspace.io/
+1500,Radian Aerospace,https://www.radianaerospace.com/
+1501,Omelas,https://www.omelas.io/#1
+1502,FiscalNote,https://fiscalnote.com/
+1503,Dedrone,https://www.dedrone.com/
+1504,Voyager Labs,https://www.voyager-labs.com/
+1505,Veritone,https://www.veritone.com/
+1506,Spark Cognition,https://www.sparkcognition.com/
+1507,Palantir,https://www.palantir.com/
+1508,C3 AI,https://c3.ai/
+1509,Red Hat Cluster Suite,https://github.com/CERIT-SC/opennebula-rhcs
+1510,Flink,https://github.com/apache/flink
+1511,Helix,https://github.com/apache/helix
+1512,Yarn,https://github.com/yarnpkg/berry
+1513,Hadoop Map Reduce,https://github.com/apache/hadoop-mapreduce
+1514,Apache Giraph,https://github.com/apache/giraph
+1515,Hadoop HDFS,https://github.com/apache/hadoop
+1516,Apache Spark,https://github.com/apache/spark
+1517,Linux High Availability,https://ubuntu.com/server/docs/ubuntu-ha-introduction
+1518,Docker,https://github.com/docker/compose
+1519,Dask,https://github.com/dask/dask
+1520,Mesos,https://github.com/apache/mesos
+1521,Ray,https://github.com/ray-project/ray
+1522,Cdap,https://github.com/cdapio/cdap
+1523,Kubernetes,https://github.com/kubernetes/kubernetes
+1524,FlatBuffers,https://github.com/google/flatbuffers
+1525,Iceberg,https://github.com/apache/iceberg
+1526,Apache Avro,https://github.com/apache/avro
+1527,Apache Thrift,https://github.com/apache/thrift
+1528,Cap'n Proto,https://github.com/capnproto/capnproto
+1529,Delta Lake,https://github.com/delta-io/delta
+1530,Apache Arrow,https://github.com/apache/arrow
+1531,MessagePack,https://github.com/msgpack/msgpack
+1532,Orc,https://github.com/apache/orc
+1533,Parquet,https://github.com/apache/parquet-mr
+1534,Protocol Buffers,https://github.com/protocolbuffers/protobuf
+1535,JSON,https://www.json.org/json-en.html
+1536,Hudi,https://github.com/apache/hudi
+1537,Apache Beam,https://github.com/apache/beam
+1538,Apache Impala,https://github.com/apache/impala
+1539,Hawq,https://github.com/apache/hawq
+1540,Apache Pig,https://github.com/apache/pig
+1541,CloudQuery,https://github.com/cloudquery/cloudquery
+1542,Apache Drill,https://github.com/apache/drill
+1543,Presto,https://github.com/prestodb/presto
+1544,Spark SQL,https://github.com/apache/spark
+1545,Trino,https://github.com/trinodb/trino
+1546,GraphQL,https://github.com/graphql/graphql-spec
+1547,Singer,https://github.com/singer-io
+1548,Marquez,https://github.com/MarquezProject/marquez
+1549,Ckan,https://github.com/ckan/ckan
+1550,Apache Atlas,https://github.com/apache/atlas
+1551,DataHub,https://github.com/datahub-project/datahub
+1552,Project Nessie,https://github.com/projectnessie/nessie
+1553,LakeFS,https://github.com/treeverse/lakeFS
+1554,OpenMetadata,https://github.com/open-metadata/OpenMetadata
+1555,Amundsen,https://github.com/amundsen-io/amundsen
+1556,Metacat,https://github.com/Netflix/metacat
+1557,OpenLineage,https://github.com/OpenLineage/OpenLineage
+1558,Elementary,https://github.com/elementary-data/elementary
+1559,Apache Ignite,https://github.com/apache/ignite
+1560,Cockroach Labs,https://github.com/cockroachdb/cockroach
+1561,Apache Cassandra,https://github.com/apache/cassandra
+1562,RocksDB,https://github.com/facebook/rocksdb
+1563,InfluxDB,https://github.com/influxdata/influxdb
+1564,MariaDB,https://github.com/MariaDB/server
+1565,SciDB,https://github.com/Paradigm4/SciDB-Py
+1566,CouchDB,https://github.com/apache/couchdb
+1567,Milvus,https://github.com/milvus-io/milvus
+1568,FoundationDB,https://github.com/apple/foundationdb
+1569,SpiceDB,https://github.com/authzed/spicedb
+1570,SQLite,https://github.com/sqlite/sqlite
+1571,OpenTSDB,https://github.com/OpenTSDB/opentsdb
+1572,Apache HBase,https://github.com/apache/hbase
+1573,Firebird,https://github.com/FirebirdSQL/firebird
+1574,PostgreSQL,https://github.com/postgres/postgres
+1575,LevelDB,https://github.com/google/leveldb
+1576,TiKV,https://github.com/tikv/tikv
+1577,Oceanbase,https://github.com/oceanbase/oceanbase
+1578,MySQL,https://github.com/mysql/mysql-server
+1579,Apache Flume,https://github.com/apache/flume
+1580,Accumulo,https://github.com/apache/accumulo
+1581,ClickHouse,https://github.com/ClickHouse/ClickHouse
+1582,Apache Kylin,https://github.com/apache/kylin
+1583,DataBend,https://github.com/datafuselabs/databend
+1584,Druid,https://github.com/apache/druid
+1585,DuckDB,https://github.com/duckdb/duckdb
+1586,Doris,https://github.com/apache/doris
+1587,Pinot,https://github.com/apache/pinot
+1588,Argo,https://github.com/argoproj/argo-workflows
+1589,Cadence,https://github.com/uber/cadence
+1590,DolphinScheduler,https://github.com/apache/dolphinscheduler
+1591,Apache Airflow,https://github.com/apache/airflow
+1592,Kestra,https://github.com/kestra-io/kestra
+1593,Flyte,https://github.com/flyteorg/flyte
+1594,Luigi,https://github.com/spotify/luigi
+1595,Dagster,https://github.com/dagster-io/dagster
+1596,Metaflow,https://github.com/Netflix/metaflow
+1597,Apache Ambari,https://github.com/apache/ambari
+1598,Apache Zookeeper,https://github.com/apache/zookeeper
+1599,Apache Mesos,https://github.com/apache/mesos
+1600,Kafka,https://github.com/apache/kafka
+1601,Samza,https://github.com/apache/samza
+1602,Storm,https://github.com/apache/storm
+1603,Estuary Flow,https://github.com/estuary/flow
+1604,Debezium,https://github.com/debezium/debezium
+1605,RabbitMQ,https://github.com/rabbitmq/rabbitmq-server
+1606,Spark Streaming,https://spark.apache.org/docs/latest/streaming-programming-guide.html
+1607,Apache ActiveMQ,https://github.com/apache/activemq
+1608,Nifi,https://github.com/apache/nifi
+1609,Apache RocketMQ,https://github.com/apache/rocketmq
+1610,Pulsar,https://github.com/apache/pulsar
+1611,Memphis,https://github.com/memphisdev/memphis-broker
+1612,Mosquitto,https://github.com/eclipse/mosquitto
+1613,Gazette,https://github.com/gazette/core
+1614,Scala,https://github.com/scala/scala
+1615,Julia,https://github.com/JuliaLang/julia
+1616,Pyro,https://github.com/pyro-ppl/pyro
+1617,Python,https://github.com/python/cpython
+1618,SciPy,https://github.com/scipy/scipy
+1619,GNU Octave,https://github.com/gnu-octave/octave
+1620,NumPy,https://github.com/numpy/numpy
+1621,Tidyverse,https://github.com/tidyverse/tidyverse
+1622,R,https://www.r-project.org/
+1623,Datatable,https://github.com/h2oai/datatable
+1624,Stan,https://mc-stan.org/
+1625,Dify,https://github.com/langgenius/dify
+1626,Ollama,https://github.com/ollama/ollama
+1627,PrivateGPT,https://github.com/imartinez/privateGPT
+1628,vLLM,https://github.com/vllm-project/vllm
+1629,Polyaxon,https://github.com/polyaxon/polyaxon
+1630,Flowise,https://github.com/FlowiseAI/Flowise
+1631,Cortex,https://github.com/cortexlabs/cortex
+1632,mLeap,https://github.com/combust/mleap
+1633,CausalML,https://github.com/uber/causalml
+1634,Jina,https://github.com/jina-ai/jina
+1635,Deepchecks,https://github.com/deepchecks/deepchecks
+1636,Gorilla,https://github.com/ShishirPatil/gorilla
+1637,MLFlow,https://github.com/mlflow/mlflow
+1638,KubeFlow,https://github.com/kubeflow/kubeflow
+1639,DVC,https://github.com/iterative/dvc
+1640,MediaPipe,https://github.com/google/mediapipe
+1641,mindsdb,https://github.com/mindsdb/mindsdb
+1642,Pachyderm,https://github.com/pachyderm/pachyderm
+1643,Sonnet,https://github.com/google-deepmind/sonnet
+1644,Caffe2,https://github.com/facebookarchive/caffe2
+1645,PaddlePaddle,https://github.com/PaddlePaddle/Paddle
+1646,SuperAGI,https://github.com/TransformerOptimus/SuperAGI
+1647,Ludwig,https://github.com/ludwig-ai/ludwig
+1648,apache Singa,https://github.com/apache/singa
+1649,Fast.ai,https://github.com/fastai/fastai
+1650,Kedro,https://github.com/kedro-org/kedro
+1651,Hugging Face Candle,https://github.com/huggingface/candle
+1652,Horovod,https://github.com/horovod/horovod
+1653,PyTorch Lightning,https://github.com/Lightning-AI/lightning
+1654,PyTorch,https://github.com/pytorch/pytorch
+1655,OpenCV,https://github.com/opencv/opencv
+1656,Pycaret,https://github.com/pycaret/pycaret
+1657,DeepLearning4J,https://github.com/deeplearning4j/deeplearning4j
+1658,ONNX,https://github.com/onnx/onnx
+1659,dmlc XGBoost,https://github.com/dmlc/xgboost
+1660,JARVIS,https://github.com/microsoft/JARVIS
+1661,PostgresML,https://github.com/postgresml/postgresml
+1662,OpenNN,https://github.com/Artelnics/opennn
+1663,DeepSpeed,https://github.com/microsoft/DeepSpeed
+1664,Chainer,https://github.com/chainer/chainer
+1665,Microsoft CNTK,https://github.com/microsoft/CNTK
+1666,CoreNLP,https://github.com/stanfordnlp/CoreNLP
+1667,Mxnet,https://github.com/apache/mxnet
+1668,BabyAGI,https://github.com/yoheinakajima/babyagi
+1669,Scikit-learn,https://github.com/scikit-learn/scikit-learn
+1670,TimeGPT,https://github.com/Nixtla/nixtla
+1671,TensorFlow,https://github.com/tensorflow/tensorflow
+1672,AutoGPT,https://github.com/Significant-Gravitas/AutoGPT
+1673,Optuna,https://github.com/optuna/optuna
+1674,Keras,https://github.com/keras-team/keras
+1675,Hugging Face Zephyr 7B,https://huggingface.co/HuggingFaceH4/zephyr-7b-beta
+1676,Alpaca 7B,https://crfm.stanford.edu/2023/03/13/alpaca.html
+1677,Meta AI ESM,https://github.com/facebookresearch/esm
+1678,Bloom,https://huggingface.co/docs/transformers/model_doc/bloom
+1679,Google Research Transformer,https://research.google/pubs/pub46201/
+1680,Google PaLM 2,https://ai.google/discover/palm2/
+1681,RoBERTa,https://github.com/facebookresearch/fairseq/blob/main/examples/roberta/README.md
+1682,Nvidia Megatron,https://github.com/NVIDIA/Megatron-LM
+1683,Microsoft Phi 2,https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/
+1684,Meta AI OPT-66B,https://huggingface.co/facebook/opt-66b
+1685,DeepMind AlphaFold,https://github.com/deepmind/alphafold
+1686,Meta AI Diplomacy Cicero,https://github.com/facebookresearch/diplomacy_cicero
+1687,Yi 34B,https://huggingface.co/01-ai/Yi-34B
+1688,Google DeepMind AlphaGeometry,https://deepmind.google/discover/blog/alphageometry-an-olympiad-level-ai-system-for-geometry/
+1689,Mistral 7B,https://mistral.ai/news/announcing-mistral-7b/
+1690,Google Research Bert,https://github.com/google-research/bert
+1691,OpenAI GPT2,https://github.com/openai/gpt-2
+1692,Mistral 7B Instruct,https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2
+1693,Mamba 2.8B,https://github.com/state-spaces/mamba
+1694,XLNet,https://huggingface.co/docs/transformers/model_doc/xlnet
+1695,Vicuna 13B,https://huggingface.co/lmsys/vicuna-13b-v1.3
+1696,Google Research Dremix,https://dreamix-video-editing.github.io/
+1697,EleutherAI GPT-Neo-2.7B,https://huggingface.co/EleutherAI/gpt-neo-2.7B
+1698,Meta AI BlenderBot,https://github.com/facebookresearch/ParlAI/tree/main/projects/bb3
+1699,Codium AlphaCodium,https://github.com/Codium-ai/AlphaCodium
+1700,EleutherAI GPT-J-6B,https://huggingface.co/EleutherAI/gpt-j-6B
+1701,Meta LLaMA 2,https://llama.meta.com/
+1702,EleutherAI Pythia,https://github.com/EleutherAI/pythia
+1703,Databricks Dolly v2,https://huggingface.co/databricks/dolly-v2-12b
+1704,Google AI Flan-T5,https://huggingface.co/docs/transformers/model_doc/flan-t5
+1705,DistilBERT,https://huggingface.co/docs/transformers/model_doc/distilbert
+1706,Google Research T5,https://github.com/google-research/text-to-text-transfer-transformer
+1707,MosaicML MPT 7B,https://huggingface.co/mosaicml/mpt-7b
+1708,OpenAI Whisper v3,https://huggingface.co/openai/whisper-large-v3
+1709,Falcon 180B,https://huggingface.co/tiiuae/falcon-180B
+1710,Together.ai RedPajama,https://www.together.ai/blog/redpajama
+1711,Cerebras GPT,https://huggingface.co/cerebras/Cerebras-GPT-13B
+1712,Google Gemma,https://blog.google/technology/developers/gemma-open-models/
+1713,Stable Diffusion,https://github.com/CompVis/stable-diffusion
+1714,Together.ai StripedHyena 7B,https://huggingface.co/togethercomputer/StripedHyena-Hessian-7B
+1715,Tantivy,https://github.com/quickwit-oss/tantivy
+1716,Lucene,https://github.com/apache/lucene
+1717,Solr,https://github.com/apache/solr
+1718,Toshi Search,https://github.com/toshi-search/Toshi
+1719,Elasticsearch,https://github.com/elastic/elasticsearch
+1720,Sonic,https://github.com/valeriansaliou/sonic
+1721,Opensearch,https://github.com/opensearch-project/OpenSearch
+1722,Swirl,https://github.com/swirlai/swirl-search
+1723,Typesense,https://github.com/typesense/typesense
+1724,Meilisearch,https://github.com/meilisearch/meilisearch
+1725,GPT4ALL,https://github.com/nomic-ai/gpt4all
+1726,LangChain OpenLLM,https://python.langchain.com/docs/integrations/llms/openllm
+1727,LMStudio,https://lmstudio.ai/
+1728,Llama.cpp,https://github.com/ggerganov/llama.cpp
+1729,llamafile,https://github.com/Mozilla-Ocho/llamafile
+1730,LocalGPT,https://github.com/PromtEngineer/localGPT
+1731,text-generation-webui,https://github.com/oobabooga/text-generation-webui
+1732,OpenObserve,https://github.com/openobserve/openobserve
+1733,Fluentbit,https://github.com/fluent/fluent-bit
+1734,Syslog,https://github.com/syslog-ng/syslog-ng
+1735,Logstash,https://github.com/elastic/logstash
+1736,Highlight.io,https://github.com/highlight/highlight
+1737,OpenTelemetry,https://github.com/open-telemetry
+1738,Fluentd,https://github.com/fluent/fluentd
+1739,Sentry,https://github.com/getsentry/sentry
+1740,Vector,https://github.com/vectordotdev/vector
+1741,Prometheus,https://github.com/prometheus/prometheus
+1742,SigNoz,https://github.com/SigNoz/signoz
+1743,Grafana,https://github.com/grafana/grafana
+1744,TensorBoard,https://github.com/tensorflow/tensorboard
+1745,Superset,https://github.com/apache/superset
+1746,D3,https://github.com/d3/d3
+1747,redash,https://github.com/getredash/redash
+1748,Matplotlib,https://github.com/matplotlib/matplotlib
+1749,PyGWalker,https://github.com/Kanaries/pygwalker
+1750,Rawgraphs,https://github.com/rawgraphs/rawgraphs-app
+1751,Bokeh,https://github.com/bokeh/bokeh
+1752,ggplot2,https://github.com/tidyverse/ggplot2
+1753,Seaborn,https://github.com/mwaskom/seaborn
+1754,Zeppelin,https://github.com/apache/zeppelin
+1755,RStudio,https://github.com/rstudio/rstudio
+1756,Polynote,https://github.com/polynote/polynote
+1757,BeakerX,https://github.com/twosigma/beakerx
+1758,Databricks Marketplace,https://www.databricks.com/product/marketplace
+1759,Explorium,https://www.explorium.ai/
+1760,SAP Data Marketplace,https://www.sap.com/index.html
+1761,Datarade,https://datarade.ai/
+1762,Eagle Alpha,https://www.eaglealpha.com/
+1763,Oracle Data Marketplace,https://docs.oracle.com/en/cloud/saas/data-cloud/data-cloud-help-center/AudienceDataMarketplace/AudienceDataMarketplace.html
+1764,IBM Asset eXchange,https://developer.ibm.com/exchanges/data/
+1765,Neudata,https://www.neudata.co/
+1766,AWS Data Exchange,https://aws.amazon.com/data-exchange/
+1767,Nomad Data,https://www.nomad-data.com/
+1768,Dawex,https://www.dawex.com/en/
+1769,Google Dataset Search,https://datasetsearch.research.google.com/
+1770,Snowflake Data Exchange,https://docs.snowflake.com/en/user-guide/data-exchange.html
+1771,Kpler,https://www.kpler.com/
+1772,Coinmetrics,https://coinmetrics.io/
+1773,xignite,https://www.xignite.com/
+1774,Tink,https://tink.com/
+1775,Refinitiv,https://www.refinitiv.com/en
+1776,Nasdaq Data Link,https://www.nasdaq.com/nasdaq-data-link
+1777,Kaiko,https://www.kaiko.com/
+1778,International Monetary Fund,https://www.imf.org/en/Home
+1779,Preqin,https://www.preqin.com/
+1780,Signal AI,https://www.signal-ai.com/
+1781,Sparta Commodities,https://www.spartacommodities.com/
+1782,GoQuant,https://goquant.io/
+1783,S&P Global Market Intelligence,https://www.spglobal.com/marketintelligence/en/solutions/sp-capital-iq-pro
+1784,StockTwits,https://stocktwits.com/
+1785,SourceScrub,https://www.sourcescrub.com/
+1786,Truelayer,https://truelayer.com/
+1787,Cybersyn,https://www.cybersyn.com/
+1788,Thomson Reuters,https://www.thomsonreuters.com/en.html
+1789,dv01,https://www.dv01.co/
+1790,SmartNews,https://www.smartnews.com/
+1791,Crunchbase,https://www.crunchbase.com/
+1792,Enigma,https://enigma.com/
+1793,Factset,https://www.factset.com/
+1794,Intrinio,https://intrinio.com/
+1795,Plaid,https://plaid.com/
+1796,CB Insights,https://www.cbinsights.com/
+1797,SEC EDGAR,https://www.sec.gov/edgar/search-and-access
+1798,MX,https://www.mx.com/
+1799,Pitchbook,https://pitchbook.com/
+1800,Canoe,https://canoeintelligence.com/
+1801,Dow Jones,https://www.dowjones.com/
+1802,Bloomberg,https://www.bloomberg.com/
+1803,DataBento,https://databento.com/
+1804,The World Bank,https://www.worldbank.org/en/home
+1805,Earnest Analytics,https://www.earnestanalytics.com/
+1806,MarineTraffic,https://www.marinetraffic.com/en/ais/home/centerx:-12.0/centery:25.0/zoom:4
+1807,ICEYE,https://www.iceye.com/
+1808,Eagleview,https://www.eagleview.com/
+1809,RS Metrics,https://rsmetrics.com/
+1810,Planet,https://www.planet.com/
+1811,Spire,https://spire.com/
+1812,Mobito,https://www.mobito.io/
+1813,BlackSky,https://www.blacksky.com/
+1814,Capella Space,https://www.capellaspace.com/
+1815,Synspective,https://synspective.com/
+1816,Preligens,https://www.preligens.com/
+1817,Qianxun SI,https://en.qxwz.com/
+1818,HawkEye 360,https://www.he360.com/
+1819,Windward,https://windward.ai/
+1820,Satellogic,https://satellogic.com/
+1821,Freightwaves,https://www.freightwaves.com/
+1822,Lusha,https://www.lusha.com/
+1823,Ocean.io,https://www.ocean.io/
+1824,Brew,https://www.getbrew.com/
+1825,Cognism,https://www.cognism.com/
+1826,Zoominfo,https://www.zoominfo.com/
+1827,Melissa,https://www.melissa.com/
+1828,Klue,https://klue.com/
+1829,AroundDeal,https://www.arounddeal.com/
+1830,Acxiom,https://www.acxiom.com/
+1831,Experian,https://www.experian.com/
+1832,Crayon,https://www.crayon.co/
+1833,UpLead,https://www.uplead.com/
+1834,People Data Labs,https://www.peopledatalabs.com/
+1835,Zignal Labs,https://zignallabs.com/
+1836,Quantcast,https://www.quantcast.com/
+1837,Brandwatch,https://www.brandwatch.com/
+1838,Epsilon,https://www.epsilon.com/us
+1839,Dun & bradstreet,https://www.dnb.com/
+1840,Tarci,https://www.tarci.io/
+1841,Safegraph,https://www.safegraph.com/
+1842,Unacast,https://www.unacast.com/
+1843,Carto,https://carto.com/
+1844,Esri,https://www.esri.com/en-us/home
+1845,Dataplor,https://www.dataplor.com/
+1846,Placer.ai,https://www.placer.ai/
+1847,Spatial,https://www.spatial.ai/
+1848,mapbox,https://www.mapbox.com/
+1849,CleverMaps,https://www.clevermaps.io/
+1850,Galigeo,https://www.galigeo.com/en/
+1851,Veraset,https://www.veraset.com/
+1852,CAP Locations,https://www.caplocations.com/
+1853,PlaceIQ,https://www.placeiq.com/
+1854,OpenStreetMap,https://www.openstreetmap.org/#map=4/38.01/-95.84
+1855,Cuebiq,https://www.cuebiq.com/
+1856,Radar,https://radar.com/
+1857,Sense360,https://sense360.com/
+1858,Foursquare,https://foursquare.com/
+1859,Gist Impact,https://gistimpact.com/
+1860,Kayrros,https://kayrros.com/
+1861,MSCI,https://www.msci.com/
+1862,Sustainalytics,https://www.sustainalytics.com/
+1863,Watershed,https://watershed.com/
+1864,Arcadia,https://www.arcadia.com/
+1865,Clarity AI,https://clarity.ai/
+1866,ESG Analytics,https://www.esganalytics.io/
+1867,Novisto,https://novisto.com/
+1868,ESG Book,https://www.esgbook.com/
+1869,RepRisk,https://www.reprisk.com/
+1870,Owl ESG,https://owlesg.com/
+1871,Truvalue Labs,https://developer.truvaluelabs.com/data/esg-ranks
+1872,Nossa Data,https://www.nossadata.com/
+1873,ISS ESG,https://www.issgovernance.com/esg/
+1874,KPMG Lighthouse,https://advisory-marketing.us.kpmg.com/lighthouse/index.html
+1875,Upright Analytics,https://www.uprightanalytics.com/
+1876,QuantumBlack AI by McKinsey,https://www.mckinsey.com/capabilities/quantumblack/how-we-help-clients
+1877,InData Labs,https://indatalabs.com/
+1878,ZS Associates,https://www.zs.com/solutions/artificial-intelligence-and-analytics
+1879,Deeper Insights,https://deeperinsights.com/
+1880,3Pillar Global,https://www.3pillarglobal.com/
+1881,phData,https://www.phdata.io/
+1882,Analytics8,https://www.analytics8.com/
+1883,Aimpoint Digital,https://www.aimpointdigital.com/
+1884,Deloitte AI Institute,https://www2.deloitte.com/us/en/pages/deloitte-analytics/articles/advancing-human-ai-collaboration.html
+1885,DAS42,https://das42.com/
+1886,BCGX,https://www.bcg.com/x
+1887,FluenFactors,https://www.fluenfactors.com/
+1888,Leit Data,https://www.leit-data.com/
+1889,Rackspace Onica,https://onica.com/rackspace/
+1890,Bytecode IO,https://bytecode.io/
+1891,System 2,https://www.sstm2.com/
+1892,itrex,https://itrexgroup.com/
+1893,DataRootLabs,https://datarootlabs.com/
+1894,Azati,https://azati.ai/
+1895,Captech Consulting,https://www.captechconsulting.com/services/data-and-analytics
+1896,IBM AI Consulting,https://www.ibm.com/consulting/artificial-intelligence
+1897,Big Time Data,https://www.bigtimedata.io/
+1898,Slalom,https://www.slalom.com/
+1899,NTT Data,https://www.nttdata.com/global/en/
+1900,On the Mark Data,https://www.onthemarkdata.com/
+1901,Kubrick,https://www.kubrickgroup.com/us/
+1902,Tribe.ai,https://www.tribe.ai/
+1903,EY Consulting Services,https://www.ey.com/en_us/consulting/analytics-consulting-services
+1904,Brooklyn Data Co,https://brooklyndata.co/
+1905,Ternary Data,https://www.ternarydata.com/
+1906,DataCaptains,https://www.datacaptains.com/
+1907,Markovate,https://markovate.com/
+1908,Cambridge Consultants,https://www.cambridgeconsultants.com/us/home
+1909,Revolt.BI,https://www.revolt.bi/
+1910,Meru,https://wearemeru.com/
+1911,ThirdEye,https://thirdeyedata.ai/
+1912,LeewayHertz,https://www.leewayhertz.com/
+1913,Seattle Data Guy,https://www.theseattledataguy.com/
+1914,4Mile,https://www.4mile.io/
+1915,Addepto,https://addepto.com/
+1916,Deepsky Data,https://www.deepskydata.com/
+1917,BlueOrange,https://blueorange.digital/
+1918,International Business Machines Corporation,https://ibm.com
+1919,"Verizon Communications, Inc.",https://verizon.com
+1920,JPMorgan Chase & Company,https://jpmorganchase.com
+1921,Siemens AG,https://siemens.com
+1922,Walmart,https://walmart.com
+1923,Citibank,https://citi.com
+1924,Wells Fargo & Company,https://wellsfargo.com
+1925,Johnson & Johnson,https://jnj.com
+1926,AT&T,https://att.com
+1927,Samsung Electronics,https://samsung.com
+1928,"Dell, Inc.",https://dell.com
+1929,Intel Corporation,https://intel.com
+1930,Bosch,https://bosch.com
+1931,Amazon,https://amazon.com
+1932,Ford Motor Company,https://ford.com
+1933,Tata Group,https://tata.com
+1934,"Salesforce, Inc",https://salesforce.com
+1935,Oracle Corporation,https://oracle.com
+1936,Optum,https://optum.com
+1937,The Walt Disney Company,https://thewaltdisneycompany.com
+1938,Fidelity Investments,https://fidelity.com
+1939,Capital One Financial Corporation,https://capitalone.com
+1940,CVS Health,https://cvshealth.com
+1941,Honeywell,https://honeywell.com
+1942,UnitedHealth Group Inc.,https://unitedhealthgroup.com
+1943,Workday,https://workday.com
+1944,Cisco,https://cisco.com
+1945,Ministry of Justice,https://gov.uk
+1946,Microsoft Corporation,https://microsoft.com
+1947,Ericsson,https://ericsson.com
+1948,Comcast,https://xfinity.com
+1949,Bank of America Corporation,https://bankofamerica.com
+1950,American Express,https://americanexpress.com
+1951,The Boeing Company,https://boeing.com
+1952,University of California,https://universityofcalifornia.edu
+1953,HSBC Holdings PLC,https://hsbc.com
+1954,"ADP, Inc",https://adp.com
+1955,General Electric,https://ge.com
+1956,Orange S.A,https://orange.com
+1957,"Fiserv, Inc.",https://fiserv.com
+1958,General Motors Company,https://gm.com
+1959,"Adobe, Inc.",https://adobe.com
+1960,The Home Depot,https://homedepot.com
+1961,Vodafone,https://vodafone.com
+1962,Visa,https://visa.com
+1963,Philips,https://philips.com
+1964,Amazon Web Services,https://aws.amazon.com
+1965,Essenware Private Limited,https://essenware.com
+1966,Publicis Groupe,https://publicisgroupe.com
+1967,Lockheed Martin,https://lockheedmartin.com
+1968,Lumen,https://lumen.com
+1969,"S&P Global, Inc.",https://spglobal.com
+1970,"Meta Platforms, Inc.",https://meta.com
+1971,"Fractal Analytics, Inc.",https://fractal.ai
+1972,Merck,https://merck.com
+1973,VMware,https://vmware.com
+1974,Morgan Stanley,https://morganstanley.com
+1975,UBS,https://ubs.com
+1976,Raytheon,https://rtx.com
+1977,PayPal,https://paypal.com
+1978,Pepsico,https://pepsico.com
+1979,Barclays PLC,https://home.barclays
+1980,Fujitsu,https://fujitsu.com
+1981,Vanguard,https://vanguard.com
+1982,Hewlett Packard Enterprise,https://hpe.com
+1983,Novartis,https://novartis.com
+1984,T-Mobile,https://t-mobile.com
+1985,Citigroup,https://citigroup.com
+1986,Anthem,https://anthem.com
+1987,IQVIA,https://iqvia.com
+1988,Humana Inc.,https://humana.com
+1989,Arrow Electronics,https://arrow.com
+1990,State Farm,https://statefarm.com
+1991,Intuit,https://intuit.com
+1992,Huawei Technologies,https://huawei.com
+1993,Apple,https://apple.com
+1994,Thales,https://thalesgroup.com
+1995,Thermo Fisher Scientific,https://thermofisher.com
+1996,J.P. Morgan,https://jpmorgan.com
+1997,FedEx Ground,https://fedex.com
+1998,Nokia,https://nokia.com
+1999,Nike,https://nike.com
+2000,Kaiser Permanente,https://kaiserpermanente.org
+2001,MasterCard,https://mastercard.com
+2002,AstraZeneca,https://astrazeneca.com
+2003,GlaxoSmithKline,https://gsk.com
+2004,Dentsu Aegis Network,https://dentsu.com
+2005,Cigna,https://cigna.com
+2006,Roche,https://roche.com
+2007,Hewlett Packard,https://hp.com
+2008,Discover Financial Services,https://discover.com
+2009,Ascendion,https://ascendion.com
+2010,Hitachi,https://hitachi.com
+2011,Mercedes Benz,https://mercedes-benz.com
+2012,Rakuten,https://rakuten.com
+2013,Qualcomm,https://qualcomm.com
+2014,BNY Mellon,https://bnymellon.com
+2015,Warner Brothers Discovery,https://wbd.com
+2016,TD Bank,https://td.com
+2017,RBC,https://rbc.com
+2018,Caterpillar Inc.,https://caterpillar.com
+2019,Standard Chartered Bank,https://sc.com
+2020,Google,https://google.com
+2021,Harman international,https://harman.com
+2022,AARP,https://aarp.org
+2023,Shell,https://shell.com
+2024,Prudential,https://prudential.com
+2025,Takeda Pharmaceutical,https://takeda.com
+2026,U.S. Bank,https://usbank.com
+2027,Medtronic,https://medtronic.com
+2028,SAP,https://sap.com
+2029,BAE Systems,https://baesystems.com
+2030,Pfizer,https://pfizer.com
+2031,Northrop Grumman,https://northropgrumman.com
+2032,Publicis,https://publicis.com
+2033,Sony Electronics,https://sony.com
+2034,GE HealthCare,https://gehealthcare.com
+2035,London Stock Exchange Group plc,https://lseg.com
+2036,Deutsche Bank,https://db.com
+2037,Airbus,https://airbus.com
+2038,BNP Paribas,https://group.bnpparibas
+2039,Larsen & Toubro,https://larsentoubro.com
+2040,Centene Corporation,https://centene.com
+2041,Publicis Sapient,https://publicissapient.com
+2042,RELX Group,https://relx.com
+2043,Abbott,https://abbott.com
+2044,TietoEVRY,https://tietoevry.com
+2045,AbbVie,https://abbvie.com
+2046,Procter & Gamble,https://pg.com
+2047,Sharpedge Solutions,https://esharpedge.com
+2048,Gartner,https://gartner.com
+2049,Verisk Analytics,https://verisk.com
+2050,NuStar Technologies,https://nustartech.com
+2051,Ally,https://ally.com
+2052,The Mitre Corporation,https://mitre.org
+2053,Tencent,https://tencent.com
+2054,Unilever,https://unilever.com
+2055,National Grid,https://nationalgrid.com
+2056,Blue Cross Blue Shield,https://bcbs.com
+2057,RTX,https://rtx.travel
+2058,DBS Bank,https://dbs.com
+2059,University of Southern California,https://usc.edu
+2060,SP Global Inc.,https://spglobalinc.com
+2061,TIAA,https://tiaa.org
+2062,eBay,https://ebay.com
+2063,ABB Ltd,https://global.abb/group/en
+2064,Charles Schwab,https://schwab.com
+2065,Liberty Mutual Insurance,https://libertymutual.com
+2066,ACL Digital,https://acldigital.com
+2067,Toyota,https://toyota.com
+2068,Synchrony,https://synchrony.com
+2069,PNC,https://pnc.com
+2070,Bayer AG,https://bayer.com
+2071,Autodesk,https://autodesk.com
+2072,3M,https://3m.com
+2073,ServiceNow Inc.,https://servicenow.com
+2074,SEG,https://seg.org
+2075,Applied Materials,https://appliedmaterials.com
+2076,Manulife,https://manulife.com
+2077,Merkle,https://merkle.com
+2078,Chubb,https://chubb.com
+2079,Equifax,https://equifax.com
+2080,Pearson,https://pearson.com
+2081,Sanofi,https://sanofi.com
+2082,Telstra,https://telstra.com.au
+2083,DISH,https://dish.com
+2084,BP Plc,https://bp.com
+2085,Spectrum,https://spectrum.com
+2086,Scotiabank,https://scotiabank.com
+2087,University of Michigan,https://umich.edu
+2088,Bytedance Inc.,https://bytedance.com
+2089,Massachusetts Institute of Technology,https://mit.edu
+2090,GovTech Singapore,https://tech.gov.sg
+2091,Tek Ninjas,https://tekninjas.com
+2092,AXA,https://axa.com
+2093,Nanyang Technological University,https://ntu.edu.sg
+2094,Canadian Armed Forces,https://canada.ca
+2095,Apexon,https://apexon.com.tw
+2096,Micron Technology,https://micron.com
+2097,New York University,https://nyu.edu
+2098,Banco Santander,https://santander.com
+2099,National University of Singapore,https://nus.edu.sg
+2100,BMO Financial Group,https://bmo.com
+2101,Cox Communications,https://cox.com
+2102,Expedia Group,https://expediagroup.com
+2103,UPS,https://ups.com
+2104,College of Charleston,https://cofc.edu
+2105,The Bosch Group,https://theboschgroup.com
+2106,MetLife,https://metlife.com
+2107,Enterprise,https://enterprise.com
+2108,Twitter,https://twitter.com
+2109,Ilitch Companies,https://ilitchcompanies.com
+2110,Axtria - Ingenious Insights,https://axtria.com
+2111,Nationwide Insurance,https://nationwide.com
+2112,RBS,https://natwestgroup.com
+2113,Eli Lilly & Company,https://lilly.com
+2114,Allianz,https://allianz.com
+2115,Citizens Bank,https://citizensbank.com
+2116,NBC Universal,https://nbcuniversal.com
+2117,Harris Corporation,https://l3harris.com
+2118,BELL,https://bell.ca
+2119,Ursus,https://ursus.com
+2120,Lowe's,https://lowes.com
+2121,Zebra Technologies,https://zebra.com
+2122,SingTel,https://singtel.com
+2123,Elevance Health,https://elevancehealth.com
+2124,TikTok,https://tiktok.com
+2125,Target,https://target.com
+2126,NielsenIQ,https://nielseniq.com
+2127,CBRE,https://cbre.com
+2128,Fannie Mae,https://fanniemae.com
+2129,T-Systems International GmbH,https://t-systems.com
+2130,MAXIMUS,https://maximus.com
+2131,Freddie Mac,https://freddiemac.com
+2132,NCR Corporation,https://ncr.com
+2133,Pepsi,https://pepsi.com
+2134,Alpha Silicon,https://alphasilicon.com
+2135,MRoads,https://dot.nm.gov
+2136,Bristol Myers Squibb,https://bms.com
+2137,The Change Leader,https://changinghighered.com
+2138,Travelers,https://travelers.com
+2139,Amgen,https://amgen.com
+2140,Yahoo! Inc.,https://yahooinc.com
+2141,Acme Transport LTD,https://acmetransport.ca
+2142,Allstate,https://allstate.com
+2143,BDO,https://bdo.global
+2144,Motorola Solutions,https://motorolasolutions.com
+2145,Sun Life Financial,https://sunlife.com
+2146,Danaher,https://danaher.com
+2147,Eaton Corporation,https://eaton.com
+2148,Arizona State University,https://asu.edu
+2149,eJAmerica,https://ejamerica.com
+2150,Northern Trust,https://northerntrust.com
+2151,GEICO,https://geico.com
+2152,Genentech,https://gene.com
+2153,LexisNexis,https://lexisnexis.com
+2154,University of Toronto,https://utoronto.ca
+2155,Exarca Inc.,https://exarcainc.com
+2156,Stanley Black & Decker,https://stanleyblackanddecker.com
+2157,Telefonica,https://telefonica.com
+2158,JLL,https://jll.com
+2159,CoStar Group,https://costargroup.com
+2160,Singapore Public Services,https://psd.gov.sg
+2161,Volvo Group,https://volvogroup.com
+2162,Stellantis,https://stellantis.com
+2163,Lenovo,https://lenovo.com
+2164,SunTrust Banks,https://truist.com
+2165,USAA,https://usaa.com
+2166,BMW Group,https://bmwgroup.com
+2167,Delta Air Lines,https://delta.com
+2168,"Change Healthcare, Inc.",https://changehealthcare.com
+2169,Texas A&M University,https://tamu.edu
+2170,Zurich NA,https://zurich.com
+2171,Nestle,https://nestle.com
+2172,Mobile Programming LLC,https://mobileprogramming.com
+2173,Credit Suisse,https://credit-suisse.com
+2174,Siemens Healthineers,https://siemens-healthineers.com
+2175,Anyone AI,https://anyoneai.com
+2176,CrowdStrike,https://crowdstrike.com
+2177,Freedom Mortgage,https://freedommortgage.com
+2178,RWS Group,https://rwsgroup.co.in
+2179,Response Informatics LTD,https://responseinformaticsltd.com
+2180,Baker Hughes,https://bakerhughes.com
+2181,Columbia University,https://columbia.edu
+2182,Aetna,https://aetna.com
+2183,Cardinal Health,https://cardinalhealth.com
+2184,Chevron,https://chevron.com
+2185,Hitachi Solutions America,https://hitachi-solutions.com
+2186,Medium.com,https://medium.com
+2187,Gilbertsunnews,https://gilbertsunnews.com
+2188,Société Générale,https://societegenerale.com
+2189,Gig Now,https://gignow.com
+2190,AlmaBetter,https://almabetter.com
+2191,Panasonic,https://panasonic.com
+2192,Gilead Sciences,https://gilead.com
+2193,"BD (Becton, Dickinson & Company)",https://bd.com
+2194,Northwestern Mutual,https://northwesternmutual.com
+2195,Schlumberger,https://slb.com
+2196,AIG,https://aig.com
+2197,Purdue University,https://purdue.edu
+2198,Moodys Corporation,https://moodys.com
+2199,Domino's Pizza,https://dominos.com
+2200,United Airlines,https://united.com
+2201,Zhejiang Lab,https://zhejianglab.com
+2202,BlackRock,https://blackrock.com
+2203,Maersk Line,https://maersk.com
+2204,Best Buy,https://bestbuy.com
+2205,"University of California, San Diego",https://ucsd.edu
+2206,Aristocrat,https://aristocrat.com
+2207,Bank of the West,https://bankofthewest.com
+2208,"Gainwell Technologies, LLC",https://gainwelltechnologies.com
+2209,University of Illinois at Urbana-Champaign,https://illinois.edu
+2210,SSi People,https://ssipeople.com
+2211,ExxonMobil,https://exxonmobil.com
+2212,Longwood University,https://longwood.edu
+2213,Zoom,https://zoom.us
+2214,Reliance Jio Infocomm Limited,https://jio.com
+2215,The Coca-Cola Company,https://coca-colacompany.com
+2216,Verantos,https://verantos.com
+2217,Silicon Valley Bank,https://svb.com
+2218,Snowflake Computing Inc.,https://snowflake.com
+2219,AMERIPRISE FINANCIAL,https://ameriprise.com
+2220,Westpac,https://westpac.com.au
+2221,Dassault Systemes,https://3ds.com
+2222,Western Digital,https://westerndigital.com
+2223,Mayo Clinic,https://mayoclinic.org
+2224,Twilio Inc.,https://twilio.com
+2225,Johns Hopkins University,https://jhu.edu
+2226,Pratt & Whitney,https://prattwhitney.com
+2227,Emerson,https://emerson.com
+2228,Nutmeg,https://nutmeg.com
+2229,Itau Unibanco,https://itau.com
+2230,John Wiley & Sons,https://wiley.com
+2231,Legato Health Technologies,https://legato.com
+2232,Ricoh Americas Corporation,https://ricoh.com
+2233,Neal Analytics,https://nealanalytics.com
+2234,Sky,https://sky.com
+2235,Boston Scientific,https://bostonscientific.com
+2236,EMD Group,https://emdgroup.com
+2237,Goli Technologies,https://golitech.com
+2238,Seagate Technology,https://seagate.com
+2239,Cyient,https://cyient.com
+2240,LG Electronics,https://lg.com
+2241,Northeastern University,https://northeastern.edu
+2242,Sirius XM Radio Inc.,https://siriusxm.com
+2243,Shopify,https://shopify.com
+2244,Expedia,https://expedia.com
+2245,Thryve Digital Health LLP,https://thryvedigital.com
+2246,Resiliency LLC,https://resiliency.us
+2247,Home Team Science & Technology Agency (HTX),https://htx.gov.sg
+2248,Hexaquest Global,https://hexaquestglobal.com
+2249,Zuva,https://zuva.ai
+2250,Cerebras Systems,https://cerebras.net
+2251,Aioi Insurance Services USA,https://aioiusa.com
+2252,BRMI,https://mi.com
+2253,Cargill,https://cargill.com
+2254,Kantar,https://kantar.com
+2255,LexisNexis Risk Solutions,https://risk.lexisnexis.com
+2256,ARM,https://arm.com
+2257,InstaDeep,https://instadeep.com
+2258,Fusemachines,https://fusemachines.com
+2259,TIBCO Software Inc.,https://tibco.com
+2260,Syngenta,https://syngenta.com
+2261,Althe NutriGene,https://aithenutrigene.com
+2262,Duke University,https://duke.edu
+2263,Palo Alto Networks,https://paloaltonetworks.com
+2264,Spelman College,https://spelman.edu
+2265,HCA,https://hcahealthcare.com
+2266,Datasumi,https://datasumi.com
+2267,Mars,https://mars.com
+2268,CIBC,https://cibc.com
+2269,Sust Global,https://sustglobal.com
+2270,City of New York,https://nyc.gov
+2271,Evidian,https://evidian.com
+2272,Northwestern University,https://northwestern.edu
+2273,Daimler Trucks North America,https://daimlertruck.com
+2274,GM Financial,https://gmfinancial.com
+2275,Electronic Arts,https://ea.com
+2276,Moody's Analytics,https://moodysanalytics.com
+2277,AAA,https://aaa.com
+2278,The University of Texas at Austin,https://utexas.edu
+2279,United Overseas Bank LTD,https://uobgroup.com
+2280,FindAbility Sciences,https://findability.ai
+2281,Lily AI,https://lily.ai
+2282,Intact,https://intact.ca
+2283,University of Colorado,https://colorado.edu
+2284,Rockwell Collins,https://collinsaerospace.com
+2285,Acord (association For Cooperative Operations Research & Development),https://acord.org
+2286,Docsumo,https://docsumo.com
+2287,Abnormal Security,https://abnormalsecurity.com
+2288,Krazy Mantra Group of Companies,https://krazymantra.com
+2289,LPL Financial,https://lpl.com
+2290,Alcon,https://alcon.com
+2291,WPP PLC Global,https://wpp.com
+2292,University of Wisconsin,https://wisc.edu
+2293,ING,https://ing.com
+2294,InMobi,https://inmobi.com
+2295,FactSet,https://factset.com
+2296,Stryker,https://stryker.com
+2297,ADEAL Systems GmbH,https://adeal-systems.com
+2298,DHL,https://dhl.com
+2299,BT Global Services,https://bt.com
+2300,Providence,https://providence.org
+2301,TransUnion,https://transunion.com
+2302,Clarivate,https://clarivate.com
+2303,Metyis,https://metyis.com
+2304,Koch Industries Inc.,https://kochind.com
+2305,Pacific Gas & Electric Company,https://pge.com
+2306,CCGP Beijing,https://ccgp-beijing.gov.cn
+2307,Baxter,https://baxter.com
+2308,Scribble Data,https://scribbledata.io
+2309,Albertsons LLC,https://albertsons.com
+2310,CDO Magazine,https://cdomagazine.tech
+2311,Macquarie Group,https://macquarie.com
+2312,InsideHigherEd,https://insidehighered.com
+2313,Evernorth,https://evernorth.com
+2314,Saama Technologies,https://saama.com
+2315,Atlassian,https://atlassian.com
+2316,BigBear.ai,https://bigbear.ai
+2317,Loreal,https://loreal.com
+2318,Morningstar,https://morningstar.com
+2319,Freie und Hansestadt Hamburg,https://hamburg.com
+2320,TechRepublic,https://techrepublic.com
+2321,Stitched Insights,https://stitchedinsights.com
+2322,Nisum Technologies,https://nisum.com
+2323,UC Irvine,https://uci.edu
+2324,Macy's,https://macys.com
+2325,Rockwell Automation,https://rockwellautomation.com
+2326,KIMBERLY-CLARK,https://kimberly-clark.com
+2327,Naver Corporation,https://navercorp.com
+2328,Corning,https://corning.com
+2329,Molina Healthcare,https://molinahealthcare.com
+2330,Campus Pride,https://campuspride.org
+2331,Veri Bilimi Okulu,https://veribilimiokulu.com
+2332,NASA - National Aeronautics & Space Administration,https://nasa.gov
+2333,Splunk Inc.,https://splunk.com
+2334,Lloyds Banking Group,https://lloydsbankinggroup.com
+2335,"Veterans Affairs, Veterans Health Administration",https://va.gov
+2336,Omega Venture Partners,https://omegavp.com
+2337,New York Life,https://newyorklife.com
+2338,Huntington Ingalls Industries,https://hii.com
+2339,University of Maryland,https://umd.edu
+2340,HiRoad,https://hiroad.com
+2341,Honda,https://honda.com
+2342,Truck Stop,https://truckstop.com
+2343,KeyBank,https://key.com
+2344,DISCO,https://disco.ac
+2345,AIX Ventures,https://aixventures.com
+2346,Harvard University,https://harvard.edu
+2347,Pacific Northwest National Laboratory,https://pnnl.gov
+2348,UC Berkeley,https://berkeley.edu
+2349,Savannah Seeds PVT LTD,https://savannahseeds.com
+2350,Global Payments Inc.,https://globalpayments.com
+2351,Saint-Gobain,https://saint-gobain.com
+2352,Grainger,https://grainger.com
+2353,Cox Automotive,https://coxautoinc.com
+2354,First Republic Bank,https://firstrepublic.com
+2355,Infineon Technologies,https://infineon.com
+2356,Perceptronics Solutions Inc.,https://percsolutions.com
+2357,Crowe,https://crowe.com
+2358,BluWave-ai,https://bluwave-ai.com
+2359,Principal Financial Group,https://principal.com
+2360,ONTARIO PUBLIC SERVICES,https://ontario.ca
+2361,UST,https://ust.cl
+2362,State Of California,https://ca.gov
+2363,KYM Advisors Inc.,https://kymadvisors.com
+2364,Stanford University,https://stanford.edu
+2365,Cognitiv,https://cognitiv.ai
+2366,"GTT, LLC",https://gtt.com
+2367,Amaze Systems Inc.,https://amaze-systems.com
+2368,Itechpost,https://itechpost.com
+2369,University of Florida,https://ufl.edu
+2370,Einride,https://einride.tech
+2371,First American Financial Corporation,https://firstam.com
+2372,Discovery Communications,https://discovery.com
+2373,St. Mark's College,https://stmarkscollege.com.au
+2374,Xerox,https://xerox.com
+2375,GroupM,https://groupm.com
+2376,Evalueserve,https://evalueserve.com
+2377,NBCU,https://nbcu.org
+2378,Alife Health,https://alifehealth.com
+2379,Asurion,https://asurion.com
+2380,Levatas,https://levatas.com
+2381,SeekOut,https://seekout.com
+2382,Deep Abacus,https://deepabacus.com
+2383,TransOrg Analytics,https://transorg.com
+2384,ResourceTree Global Services,https://resourcetree.co.in
+2385,TTEC,https://ttec.com
+2386,Commonwealth Bank,https://commbank.com.au
+2387,Fixity Technologies,https://fixitytech.com
+2388,Women in Data,https://womenindata.co.uk
+2389,Aflac Northern Ireland,https://aflacni.com
+2390,Decision Six Inc.,https://decisionsix.com
+2391,Alight Solutions,https://alight.com
+2392,Kubrick Group,https://kubrickgroup.com
+2393,codvo.ai,https://codvo.ai
+2394,Zillow,https://zillow.com
+2395,Anheuser-Busch InBev,https://ab-inbev.com
+2396,PharmaForceIQ,https://pharmaforceiq.com
+2397,Rutgers University,https://rutgers.edu
+2398,Hinduja Global Solutions,https://hgs.cx
+2399,Saxon,https://saxoninc.com
+2400,CHRYSELYS,https://chryselys.com
+2401,Few & Far,https://fewandfar.io
+2402,TRW,https://zf.com
+2403,NTouch Strategies,https://ntouchstrategies.com
+2404,CFA Institute,https://cfainstitute.org
+2405,Elgebra,https://elgebra.com
+2406,Symantec,https://broadcom.com
+2407,Omdena,https://omdena.com
+2408,Deutsche Telekom AG,https://telekom.com
+2409,MachineMetrics,https://machinemetrics.com
+2410,University of Virginia,https://virginia.edu
+2411,SBCS India PVT LTD,https://sbcsin.com
+2412,Block,https://block.xyz
+2413,Protosoft Solutions Pte LTD,https://protosoft.com.sg
+2414,Shopee,https://shopee.com
+2415,E.ON Grid Solutions GmbH,https://eon-gridsolutions.com
+2416,Nielsen,https://nielsen.com
+2417,XPT Software Australia Pty LTD,https://xptsoftware.com.au
+2418,BMW,https://bmw.com
+2419,Swiss Re,https://swissre.com
+2420,ACZ Global PVT LTD,https://aczglobal.com
+2421,Borealis AI,https://borealisai.com
+2422,News Corporation,https://newscorp.com
+2423,TEMUS PTE. LTD,https://temus.com
+2424,Elsevier,https://elsevier.com
+2425,Kinesso,https://kinesso.com
+2426,BMC Software,https://bmc.com
+2427,OpenText,https://opentext.com
+2428,Carrier Corporation,https://carrier.com
+2429,OCBC Bank,https://ocbc.com
+2430,Kroger,https://kroger.com
+2431,ASML,https://asml.com
+2432,Huntington National Bank,https://huntington.com
+2433,procorpsystems,https://procorpsystems.co
+2434,American Airlines,https://aa.com
+2435,Conduent,https://conduent.com
+2436,Penn State University,https://psu.edu
+2437,K Raheja Corp.,https://krahejacorp.com
+2438,Compass.uol,https://compass.uol
+2439,Corteva Agriscience,https://corteva.com
+2440,Chogo Giken,https://chowagiken.co.jp
+2441,Madrona Venture Labs,https://madronavl.com
+2442,Navy Federal Credit Union,https://navyfederal.org
+2443,VinBigData,https://vinbigdata.com
+2444,TheMathCompany,https://themathcompany.com
+2445,Nuance Communications,https://nuance.com
+2446,America Welding Society,https://aws.org
+2447,Trimble,https://trimble.com
+2448,The Hartford,https://thehartford.com
+2449,Codebase,https://codebase.com
+2450,AltaML,https://altaml.com
+2451,Elevate Textiles,https://elevatetextiles.com
+2452,KCF Technologies,https://kcftech.com
+2453,Mojro,https://mojro.com
+2454,BioLife Plasma Services,https://biolifeplasma.com
+2455,Blue Cross Blue Shield of Massachusetts,https://bluecrossma.org
+2456,Yupeek,https://my.yupeek.com
+2457,Astek,https://astek.com
+2458,Maarut,https://maarutinc.com
+2459,RTWO Healthcare Solutions LLP,https://rtwohealthcare.com
+2460,Cotiviti,https://cotiviti.com
+2461,Nasdaq,https://nasdaq.com
+2462,LinkedIn,https://linkedin.com
+2463,EnCharge AI,https://enchargeai.com
+2464,Cognitive Space,https://cognitivespace.com
+2465,Wunderman Thompson,https://wundermanthompson.com
+2466,Advanced Institute of Information Technology,https://aiit.org.cn
+2467,Standard Bank Group,https://standardbank.com
+2468,Dun & Bradstreet,https://dnb.com
+2469,The Ohio State University,https://osu.edu
+2470,United Site Services,https://unitedsiteservices.com
+2471,ANZ,https://anz.com
+2472,State of Michigan,https://michigan.gov
+2473,AIA,https://aia.com
+2474,Unit8 SA,https://unit8.co
+2475,Dendra Systems,https://dendra.io
+2476,Isomorphic Labs,https://isomorphiclabs.com
+2477,Red Ventures,https://redventures.com
+2478,ClearML,https://clear.ml
+2479,Blue Shield of California,https://blueshieldca.com
+2480,WiseAnalytics.io,https://wiseanalytics.io
+2481,The Cigna Group,https://thecignagroup.com
+2482,Federal Reserve Bank,https://federalreserve.gov
+2483,Call Simulator,https://callsimulator.com
+2484,Shoptrue Inc.,https://shoptrue.com
+2485,American Family Insurance,https://amfam.com
+2486,Celeb-AI Technologies,https://celeb-ai.com
+2487,Synopsys,https://synopsys.com
+2488,Sam's Club,https://samsclub.com
+2489,US Army,https://army.mil
+2490,CyberCube,https://cybcube.com
+2491,Prevalent AI,https://prevalent.ai
+2492,Agoda,https://agoda.com
+2493,CoverMyMeds,https://covermymeds.com
+2494,ZoomInfo,https://zoominfo.com
+2495,AI21 Labs,https://ai21.com
+2496,jai kisan,https://jai-kisan.com
+2497,Semantix,https://semantix.com.br
+2498,TrueFoundry,https://truefoundry.com
+2499,Optimum Data Analytics,https://optimumdataanalytics.com
+2500,Marriott,https://marriott.com
+2501,XPO Logistics,https://xpo.com
+2502,Walgreens,https://walgreens.com
+2503,Ciena,https://ciena.com
+2504,Bath Fitter,https://bathfitter.com
+2505,Crane Venture Partners,https://crane.vc
+2506,Tide Software,https://tidesoftware.com
+2507,Saturn Cloud,https://saturncloud.io
+2508,Sandia National Laboratories,https://sandia.gov
+2509,BlueShift Brasil,https://blueshift.com.br
+2510,AgencyKPI Inc.,https://agencykpi.com
+2511,Grab,https://grab.com
+2512,DHL Express,https://dhlexpress.com.sg
+2513,Point32Health,https://point32health.org
+2514,Exeevo Inc.,https://exeevo.com
+2515,WTW,https://wtw.com
+2516,MSD,https://msd.com
+2517,PRI Global,https://priglobal.com
+2518,Phitopolis,https://phitopolis.com
+2519,HSO,https://hso.ch
+2520,SAS,https://sas.com
+2521,CCTech,https://cctech.co.in
+2522,IKEA,https://ikea.com
+2523,Crescendo Global,https://crescendo-global.com
+2524,ESRI,https://esri.com
+2525,University of Rochester,https://rochester.edu
+2526,Celebal Technologies,https://celebaltech.com
+2527,Quaxigma,https://quaxigma.com
+2528,INNODATATICS,https://innodatatics.com
+2529,MoveWorks Inc.,https://move-works.com
+2530,BHG Money group,https://bhgmoney.com
+2531,Scale AI Inc.,https://scale.com
+2532,iRobot Corporation,https://irobot.com
+2533,QuantAQ,https://quant-aq.com
+2534,Michelin,https://michelin.com
+2535,datatobiz,https://datatobiz.com
+2536,Bhavyansh Infotech India PVT LTD,https://bhavyansh.in
+2537,Canadian Tire,https://canadiantire.ca
+2538,CFB Bots Pte LTD,https://cfb-bots.com
+2539,NeuTigers Inc.,https://neutigers.com
+2540,H1,https://h1.co
+2541,Qualtrics,https://qualtrics.com
+2542,Playstation,https://playstation.com
+2543,Index Ventures,https://indexventures.com
+2544,Adastra,https://adastragrp.com
+2545,The Clorox Company,https://thecloroxcompany.com
+2546,Staples,https://staples.com
+2547,AMARIS.AI PTE. LTD,https://amaris.ai
+2548,CBS Corporation,https://cbs.com
+2549,Striveworks,https://striveworks.us
+2550,Major League Baseball,https://mlb.com
+2551,Intuitive Surgical,https://intuitive.com
+2552,LVMH,https://lvmh.com
+2553,Phygital Insights,https://phygital-insights.com
+2554,CONXAI,https://conxai.com
+2555,Chewy,https://chewy.com
+2556,Carman Solution Group,https://carmansg.com
+2557,TTEC Digital,https://ttecdigital.com
+2558,Wissen Technology,https://wissen.com
+2559,Luein Analytics,https://lueinanalytics.com
+2560,Simple Solutions,https://simplesolutions.org
+2561,High Point Technologies,https://hipointservices.com
+2562,mPulse Mobile,https://mpulsemobile.com
+2563,Marketscope,https://advisor.marketscope.com
+2564,Newy Tech People,https://newytechpeople.com.au
+2565,Providence India,https://providenceindia.in
+2566,Foundry,https://foundry.com
+2567,Endeavor,https://endeavor.org
+2568,AI Touch,https://aitouch.in
+2569,Outra,https://outra.co.uk
+2570,The Hague Tech,https://thehaguetech.nl
+2571,Noodle.ai,https://noodle.ai
+2572,Foundation Capital,https://foundationcapital.com
+2573,Shiru,https://shiru.com
+2574,Dallas Data Science Academy,https://dallasdatascienceacademy.com
+2575,Office Depot,https://officedepot.com
+2576,Republic Polytechnic,https://rp.edu.sg
+2577,Veracity Software Inc.,https://veracity-us.com
+2578,Dyson,https://dyson.com
+2579,Velosio,https://velosio.com
+2580,PIMCO,https://pimco.com
+2581,Data Science UA,https://data-science.com.ua
+2582,Sberbank,https://sberbank.com
+2583,Captiosus Axons,https://captiosusaxons.com
+2584,10Pearls,https://10pearls.com
+2585,Maaloomatiia Group,https://maaloomatiia.com
+2586,Uniandinos - Oficial,https://uniandinos.org.co
+2587,The University of Chicago,https://uchicago.edu
+2588,Technology Innovation Institute,https://tii.ae
+2589,Datarwe,https://datarwe.com
+2590,SenseTime,https://sensetime.com
+2591,Creeno Solutions Private Limited,https://creenosolutions.com
+2592,Barhead Solutions,https://barhead.com
+2593,Stathletes Inc.,https://stathletes.com
+2594,Elder Research Inc.,https://elderresearch.com
+2595,Richemont,https://richemont.com
+2596,adesso SE,https://adesso-group.de
+2597,Affine Inc.,https://affineinc.com
+2598,Spice AI,https://spiceai.io
+2599,STMicroelectronics,https://st.com
+2600,DeepBrainz AI,https://deepbrainz.com
+2601,Illumina,https://illumina.com
+2602,Veracitiz Solutions Private Limited,https://veracitiz.com
+2603,New Jersey Institute of Technology,https://njit.edu
+2604,UBIAI,https://ubiai.tools
+2605,Citrix,https://citrix.com
+2606,Turing Inc.,https://turinginc.io
+2607,Revel IT,https://revelit.com
+2608,F5 Networks,https://f5.com
+2609,BitSight,https://bitsight.com
+2610,Fidelity International,https://fidelityinternational.com
+2611,WHITECOAT HOLDINGS PTE. LTD,https://whitecoat.com.sg
+2612,Fraunhofer-Gesellschaft,https://fraunhofer.de
+2613,Ellipse Solutions,https://ellipsesolutions.com
+2614,Jabil,https://jabil.com
+2615,Cervest,https://cervest.com
+2616,Zodiac Aerospace,https://safran-group.com
+2617,First Financial Northwest Bank,https://ffnwb.com
+2618,Cloudcraftz Solutions,https://cloudcraftz.com
+2619,Amber Flux Private Limited,https://amberflux.com
+2620,Techtok,https://techtok.dev
+2621,EPSoft Technologies,https://epsoftinc.com
+2622,AI Superior,https://aisuperior.com
+2623,FarmwiseAI,https://farmwiseai.com
+2624,Senior Resource Group,https://srgseniorliving.com
+2625,Goldman Sachs,https://goldmansachs.com
+2626,Beyond Limits,https://beyond.ai
+2627,Peak,https://peak.ai
+2628,Booth & Partners,https://boothandpartners.com
+2629,Gramener,https://gramener.com
+2630,North Carolina State University,https://ncsu.edu
+2631,Veritas,https://veritas.com
+2632,Nod.ai,https://nod.ai
+2633,Optus,https://optus.com.au
+2634,FirstEigen,https://firsteigen.com
+2635,Decrypt,https://decrypt.co
+2636,GalaxEye,https://galaxeye.space
+2637,Daten & Wissen,https://datenwissen.com
+2638,Tata Communications,https://tatacommunications.com
+2639,Washington Metropolitan Area Transit Authority,https://wmata.com
+2640,THE GAUNTLET,https://thegauntlet.com
+2641,Danaher Digital,https://danaherdigital.com
+2642,KUMAVISION AG,https://kumavision.com
+2643,Colgate Palmolive,https://colgatepalmolive.com
+2644,Avery Dennison,https://averydennison.com
+2645,Pecan AI,https://pecan.ai
+2646,ICS Global Soft Inc.,https://icsglobalsoftinc.com
+2647,BASF,https://basf.com
+2648,Department of the Air Force,https://af.mil
+2649,Data Wave Technologies,https://datawavetechnologies.com
+2650,Duke Energy Corporation,https://duke-energy.com
+2651,Terray Therapeutics,https://terraytherapeutics.com
+2652,TOTAL,https://totalenergies.com
+2653,CloudHire,https://cloudhire.org
+2654,Hydatis,https://hydatis.com
+2655,Nexer Group,https://nexergroup.com
+2656,Equilibrium Energy,https://equilibriumenergy.com
+2657,Elfonze Technologies,https://elfonze.com
+2658,Sequence Bio,https://sequencebio.com
+2659,Veolia,https://veolia.com
+2660,Flux Auto,https://fluxauto.xyz
+2661,Boston University,https://bu.edu
+2662,Spotify,https://spotify.com
+2663,Affine,https://affine.in
+2664,Munich Re,https://munichre.com
+2665,BayOne,https://bay.one
+2666,Freepik,https://freepik.es
+2667,Futuremug,https://futuremug.com
+2668,Advisority,https://advisority.com
+2669,Infilect,https://infilect.com
+2670,Thirumoolar Software PVT LTD,https://vote.net.in
+2671,alphastream.ai,https://alphastream.ai
+2672,Stripe,https://stripe.com
+2673,LogMeIn,https://goto.com
+2674,Custimy.io,https://custimy.io
+2675,FlexoSense,https://flexosense.com
+2676,Melonfrost,https://melonfrost.com
+2677,Markithis,https://markithis.com
+2678,LatentBridge,https://latentbridge.com
+2679,meterwork,https://meterwork.com
+2680,BARBORA,https://barbora.lt
+2681,National Australia Bank,https://nab.com.au
+2682,CyShield,https://cyshield.com
+2683,Carvana,https://carvana.com
+2684,Intellify Solutions PVT LTD,https://intellifysolutions.com
+2685,Workiva,https://workiva.com
+2686,Group Nine,https://groupnine.com
+2687,Infotree Global Solutions,https://infotreeglobal.com
+2688,Experfy,https://experfy.com
+2689,UCLA,https://ucla.edu
+2690,Gather AI,https://gather.ai
+2691,Snapx,https://snapx.com
+2692,Ferguson Enterprises Inc.,https://ferguson.com
+2693,The DarkStar Group,https://thedarkstargroup.com
+2694,Paysera,https://paysera.lt
+2695,PixelPhant,https://pixelphant.com
+2696,ProductBoard,https://productboard.com
+2697,IT Alliance Australia,https://italliance.com.au
+2698,Progressive Insurance,https://progressive.com
+2699,WiMLDS Inc.,https://wimlds.org
+2700,ViaSat,https://viasat.com
+2701,Optomatica,https://optomatica.com
+2702,Georgia-Pacific,https://gp.com
+2703,Colorado State University,https://colostate.edu
+2704,oculai GmbH,https://oculai.de
+2705,University of Pennsylvania,https://upenn.edu
+2706,Noze,https://noze.ca
+2707,Gathi Analytics,https://gathi.com
+2708,BBC,https://bbc.com
+2709,Massachusetts General Hospital,https://massgeneralbrigham.org
+2710,Nommas,https://nommas.com
+2711,VOIS,https://ovois.com
+2712,GTT,https://gtt.net
+2713,Accrete.AI,https://accrete.ai
+2714,Alibaba Group,https://alibabagroup.com
+2715,Unum,https://unum.com
+2716,Beam Data,https://beamdata.ca
+2717,Stability AI,https://stability.ai
+2718,Plumerai,https://plumerai.com
+2719,Georgia State University,https://gsu.edu
+2720,ZIDEA,https://zidea.in
+2721,Technodysis,https://technodysis.com
+2722,Snorkel AI,https://snorkel.ai
+2723,OneMain Financial,https://onemainfinancial.com
+2724,BitAnimate,https://bitanimate.com
+2725,Southern Illinois Healthcare,https://sih.net
+2726,AstrumU,https://astrumu.com
+2727,AlphaLayer,https://alphalayer.ai
+2728,Capleo Global,https://capleoglobal.com
+2729,VinBrain,https://vinbrain.net
+2730,Udemy,https://udemy.com
+2731,BIVIZIO,https://bivizio.com
+2732,Systech Corp Inc.,https://systech.com
+2733,Blueprint Power,https://blueprintpower.com
+2734,Spatialedge (Pty) LTD,https://spatialedge.co.za
+2735,Quisitive,https://quisitive.com
+2736,Erste Digital,https://erstedigital.com
+2737,Aligned Automation,https://alignedautomation.com
+2738,Fidius Advisory,https://fidiusadvisory.com
+2739,UL LLC,https://ul.com
+2740,Seasalt.ai,https://seasalt.ai
+2741,The University of British Columbia,https://ubc.ca
+2742,ZestFinance,https://zest.ai
+2743,OSTTRA,https://osttra.com
+2744,Indegene,https://indegene.com
+2745,Openstream Inc.,https://openstream.ai
+2746,National Basketball Association,https://nba.com
+2747,ValueMomentum,https://valuemomentum.com
+2748,First Ascent Ventures,https://firstascentventures.com
+2749,Pyramid Global Technologies,https://pyramidglobaltechnologies.com
+2750,Continental,https://continental.com
+2751,Vanderbilt University,https://vanderbilt.edu
+2752,SGInnovate,https://sginnovate.com
+2753,TE Connectivity,https://te.com
+2754,Inworld AI,https://inworld.ai
+2755,The Sparks Foundation,https://sparksfoundation.org
+2756,"Fabric, formerly CommonSense Robotics",https://getfabric.com
+2757,Strong Analytics,https://strong.io
+2758,Alera Group,https://aleragroup.com
+2759,Barcinno,https://barcinno.com
+2760,in2desks.com,https://in2desks.com
+2761,Miuul,https://miuul.com
+2762,Analog Devices,https://analog.com
+2763,SmartAdvisor Match,https://smartadvisormatch.com
+2764,Sherwin-Williams,https://sherwin-williams.com
+2765,Capchase,https://capchase.com
+2766,Michigan State University,https://msu.edu
+2767,The Tile Shop,https://tileshop.com
+2768,Southern California Edison,https://sce.com
+2769,EVERSANA,https://eversana.com
+2770,Tableau Software,https://tableau.com
+2771,Assa Abloy,https://assaabloy.com
+2772,CommScope,https://commscope.com
+2773,Sight Spectrum,https://sightspectrum.com
+2774,Cornell University,https://cornell.edu
+2775,Ecolab,https://ecolab.com
+2776,Singtel Innov8 Ventures,https://innov8.singtel.com
+2777,Annalect,https://annalect.com
+2778,Arrikto,https://arrikto.com
+2779,Hyundai Motor America,https://hyundai.com
+2780,PPG Industries,https://ppg.com
+2781,Morgan Truck Body,https://morgancorp.com
+2782,Keasis,https://keasis.com
+2783,BE-terna GmbH,https://be-terna.com
+2784,SDAIA,https://sdaia.gov.sa
+2785,A2Z-CM NV,https://a2z-cm.com
+2786,Future Facts,https://futurefacts.nl
+2787,Second Harvest Heartland,https://2harvest.org
+2788,Trifacta,https://trifacta.com
+2789,University of Waterloo,https://uwaterloo.ca
+2790,Spanco Solutions,https://spancosolutions.com
+2791,Optello,https://optelgroup.com
+2792,accantec group,https://accantec.de
+2793,ENGIE,https://engie.com
+2794,KSM Inc.,https://ksminc.net
+2795,Singapore Pools,https://singaporepools.com
+2796,QVC,https://qvc.com
+2797,Western Union,https://westernunion.com
+2798,Deutsche Telekom Services Europe - Slovakia,https://dtse.sk
+2799,Telepath.io,https://telepath.io
+2800,M&T Bank,https://mtb.com
+2801,Rawmind Analytics,https://rawmind.in
+2802,PT. Sharing Vision Indonesia,https://sharingvision.com
+2803,Stanford Healthcare,https://stanfordhealthcare.org
+2804,Vertex Pharmaceuticals,https://vrtx.com
+2805,DocuSign,https://docusign.com
+2806,Procore Technologies,https://procore.com
+2807,Workist,https://workist.com
+2808,The University of Texas System,https://utsystem.edu
+2809,Levi Strauss & Co.,https://levistrauss.com
+2810,Dautom,https://dautom.com
+2811,Mantu,https://mantu.com
+2812,Digital Nova Scotia,https://digitalnovascotia.com
+2813,SenzMate IoT Intelligence,https://senzmate.com
+2814,LabCorp,https://labcorp.com
+2815,The Washington Post,https://washingtonpost.com
+2816,shAI for AI,https://shaiclub.com
+2817,Xenos,https://xenos.nl
+2818,Kemper,https://kemper.com
+2819,VIAPIX SYSTEMS,https://viapix.fr
+2820,GetGo Carsharing,https://getgo.sg
+2821,PGIM Global Short Duration High Yield Fund Inc.,https://pgim.com
+2822,Data Science Research Peru,https://datascience.pe
+2823,Nowcast,https://nowcast.co.jp
+2824,CTW,https://ctw.inc
+2825,ENAVATE,https://enavate.com
+2826,Flintfox International,https://flintfox.com
+2827,Roku,https://roku.com
+2828,"Wyetech, LLC",https://wyetechllc.com
+2829,Indian Institute of Technology,https://iitd.ac.in
+2830,ZP Group,https://zpgroup.com
+2831,Monash University,https://monash.edu
+2832,ASAPP,https://asapp.com
+2833,Tookitaki,https://tookitaki.com
+2834,BenchSci,https://benchsci.com
+2835,Changshu Rural Commercial Bank,https://csrcbank.com
+2836,Impact Networking,https://impactmybiz.com
+2837,CR England,https://crengland.com
+2838,Acies Global,https://aciesglobal.com
+2839,Fliprobo Technologies,https://fliprobo.com
+2840,Slack,https://slack.com
+2841,Genesis Rehab Services,https://genesisrehab.com
+2842,Iron Mountain,https://ironmountain.com
+2843,Claim Genius,https://claimgenius.com
+2844,Fuchs Lubricants Co.,https://fuchs.com
+2845,Kellton,https://kellton.com
+2846,Department of Defense,https://defense.gov
+2847,AIR Communities,https://aircommunities.com
+2848,Zeiss,https://zeiss.com
+2849,American Society of Agronomy,https://agronomy.org
+2850,Juniper Networks,https://juniper.net
+2851,MSC Mediterranean Shipping Company,https://msc.com
+2852,Open Insights,https://open-insights.com
+2853,Telenor,https://telenor.com
+2854,Master Works,https://master-works.net
+2855,Kroll,https://kroll.com
+2856,BriskWin IT (BWIT),https://briskwinit.com
+2857,Kavi Global,https://kaviglobal.com
+2858,Bloomberg LP,https://bloomberg.com
+2859,Norwest Venture Partners,https://nvp.com
+2860,Project X LTD,https://pxltd.ca
+2861,Ascension Health,https://ascension.org
+2862,McGraw-Hill,https://mheducation.com
+2863,Simple Solutions LLC,https://simplesolutions-llc.com
+2864,MLAI Digital,https://mlaidigital.com
+2865,FreightFlows,https://freightflows.com
+2866,McDonald's,https://mcdonalds.com
+2867,Alstom,https://alstom.com
+2868,MiQ,https://miq.in
