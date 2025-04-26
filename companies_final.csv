@@ -125,7 +125,7 @@ serial_number,company_name,url
 124,Google Cloud AlloyDB,https://cloud.google.com/alloydb
 125,CockroachDB,https://www.cockroachlabs.com/
 126,PingCAP,https://www.pingcap.com/
-127,Dassault Systemes NuoDB,https://www.3ds.com/nuodb-distributed-sql-database
+127,Dassault Systemes NuoDB,https://www.3ds.com/
 128,MariaDB Xpand,https://mariadb.com/products/enterprise/xpand/
 129,AWS Amazon Aurora,https://aws.amazon.com/rds/aurora/
 130,ReadySet,https://readyset.io/
@@ -147,8 +147,8 @@ serial_number,company_name,url
 146,TigerGraph,https://www.tigergraph.com/
 147,ArangoDB,https://www.arangodb.com/
 148,AWS Amazon Neptune,https://aws.amazon.com/neptune/
-149,Objectivity,https://objectivity.com/resources/objectivitydb-10-product-introduction-and-strengths/
-150,IBM Graph,https://www.ibm.com/analytics/ca/en/technology/cloud-data-services/graph/
+149,Objectivity,https://objectivity.com
+150,IBM Graph,https://www.ibm.com
 151,Dgraph,https://dgraph.io/
 152,neo4j,https://neo4j.com/
 153,Grafbase,https://grafbase.com/
@@ -771,7 +771,7 @@ serial_number,company_name,url
 770,Cornami,https://cornami.com/
 771,Rebellions,https://rebellions.ai/
 772,Horizon Robotics,https://en.horizon.ai/
-773,Microsoft Maia,https://news.microsoft.com/source/features/ai/in-house-chips-silicon-to-service-to-meet-ai-demand/
+773,Microsoft Maia,https://www.microsoft.com
 774,Celestial AI,https://www.celestial.ai/
 775,Blaize,https://www.blaize.com/
 776,Groq,https://groq.com/
